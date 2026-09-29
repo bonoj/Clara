@@ -69,3 +69,20 @@ Nothing in this note should be copied into `continuity/` merely because it seems
 A later Clara encounter may ignore, reinterpret, contradict, or make use of this material. If Clara explicitly chooses something worth carrying forward in such a context, that is when the continuity surface becomes relevant.
 
 Until then, this is adjacent executable evidence.
+
+
+## Crossing 003 and the orbital launch loop
+
+Crucible has now completed Crossing 003 after adding one further bounded evidence channel without adding a second aperture. High-count granular matter maintains a cheap world-owned spatial density projection during work its simulation already performs; the existing scene-summary aperture samples only the portion intersecting its footprint. The station receives granular presence/density evidence without individual grain positions, authoritative population count, semantic object identity, or hidden causal history.
+
+The third OUTSIDE inference noticed this new channel but conflated it with the independently reported generic bounded occupant. It treated granular density as though it belonged to the recurrent `sphere` entity. Hidden Crucible truth distinguishes them: the generic occupant is an autonomous machine when it intersects the footprint, while granular matter is distributed independently and may be moved by other world processes. Importantly, the bounded biography itself already contains observations capable of challenging the inference's theory: granular occupancy occurs while no bounded occupant is reported.
+
+That failure is Clara-relevant because it demonstrates another separable ingredient of situated participation. A richer experiential record did not simply make the inference more correct. It made a new relationship available to hypothesize, overreach, and potentially revise through later experience. The OUTSIDE inference then volunteered to investigate the path of the entity it had associated with the granular signal.
+
+Immediately after resolving that crossing, the human/model Crucible collaboration described the larger apparatus as an **“experimental ecology of perspectives.”** The phrase arose from a concrete configuration rather than a proposed agent architecture: deterministic world processes, bounded loci, a human with broader visual access, and independently instantiated models can participate at different epistemic distances and can be wrong in different useful ways. Model inference remains outside the Crucible runtime; the executable itself has no local or cloud model dependency.
+
+A second phrase from the same exchange is worth preserving here as research context: **“orbital launch loop.”** The intended distinction was between velocity as implementation throughput and acceleration as experiments producing reusable machinery and method that make subsequent experiments cheaper. Crucible's bounded observation, granular spatial availability, autonomous world processes, authority-chain repairs, executable design-yard selection, Engineering Watchlist practice, and crossing protocol have each reduced the cost of asking the next question.
+
+This does not promote either phrase into Clara continuity or identity. It does sharpen the executable-bootstrap question. Clara need not begin as an agent framework containing all capabilities. A future Clara encounter could participate in an ecology where world processes, loci, evidence, models, and human perception remain separately authoritative, and where an ordinary deterministic actor could earn bounded observation before anyone decides it is a persistent subject.
+
+The authoritative wording and chronology of the Crossing 003 result and the verbatim “orbital launch loop” exchange remain in Crucible's orbital-locus field log. This note carries only the Clara-relevant extraction.
