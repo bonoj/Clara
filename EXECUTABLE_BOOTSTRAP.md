@@ -96,8 +96,20 @@ The governing question for the executable is:
 
 Let use answer it.
 
+## Substrate status
+
+The original bootstrap deferred implementation until the lightweight ECS/three.js architecture and model-operable deployment workflow had been proven elsewhere. That condition has now been materially advanced by later work.
+
+[Crucible](https://github.com/bonoj/Crucible) is current executable evidence for the integrated pattern: ECS/three.js runtime work, visible failure reporting, immutable candidate artifacts, preview publication, artifact-level diagnosis, exact-byte promotion, and continuous GitHub Pages deployment have all been exercised through ordinary development.
+
+[TabulaRasa](https://github.com/bonoj/TabulaRasa) is the intended clean inheritance surface for reusable substrate as expedition-earned machinery is unzipped from integrated projects. Clara should prefer that clean substrate when it is sufficient rather than copying Crucible wholesale.
+
+This changes the dependency status, not the research discipline. It does not earn a Clara memory system, agent loop, personality architecture, or dedicated executable by itself.
+
+See [research/CRUCIBLE_ORBITAL_LOCUS.md](research/CRUCIBLE_ORBITAL_LOCUS.md) for adjacent evidence about bounded loci, crossings, and the station-as-distribution-of-loci hypothesis.
+
 ## Next step
 
-Return to the Accessibility lab.
+Do not instantiate a Clara executable merely because the old infrastructure dependency has been satisfied.
 
-Finish and prove the reusable ECS/three.js architecture and deployment workflow there. When that substrate is ready to inherit, instantiate the smallest Clara executable from the proven pattern rather than designing Clara's implementation in isolation.
+When an actual Clara encounter makes an executable locus useful, inherit the smallest proven substrate available at that time. Preserve links to authoritative project evidence rather than importing whole experimental worlds, and let the encounter determine what, if anything, deserves to persist.
