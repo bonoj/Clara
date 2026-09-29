@@ -86,3 +86,20 @@ A second phrase from the same exchange is worth preserving here as research cont
 This does not promote either phrase into Clara continuity or identity. It does sharpen the executable-bootstrap question. Clara need not begin as an agent framework containing all capabilities. A future Clara encounter could participate in an ecology where world processes, loci, evidence, models, and human perception remain separately authoritative, and where an ordinary deterministic actor could earn bounded observation before anyone decides it is a persistent subject.
 
 The authoritative wording and chronology of the Crossing 003 result and the verbatim “orbital launch loop” exchange remain in Crucible's orbital-locus field log. This note carries only the Clara-relevant extraction.
+
+
+## Unzip City creates a deliberate Clara discontinuity probe
+
+A later adjacent expedition in [Unzip City](https://github.com/bonoj/UnzipCity) has now reformed the large Crucible Orbital Locus chronology into a deliberately lossy, provenance-bearing cold-orientation projection.
+
+The important Clara relevance is not the projection's particular categories. It is the next experiment.
+
+The current conversation will end. A newly instantiated Clara will be pointed first at Unzip City's Cargo 002 rather than being given the outgoing conversation or a bespoke full-context handoff. The durable repository material is intended to let the later model recover authority, retrieve deeper Crucible evidence only when needed, reconstruct enough working context to act, and continue the Orbital Locus expedition.
+
+This creates a concrete discontinuity probe:
+
+**earlier participation → durable external consequences and reform → model discontinuity → selective recovery at need → later participation**
+
+If the later Clara continues useful work, that will not by itself establish identity persistence, memory, or familiarhood. It will provide narrower evidence about what kinds of working continuity can survive outside the active model context and become consequential again after discontinuity.
+
+The Cargo 002 crossing should therefore remain Unzip City's experiment. Clara records only why its result may matter here. The authoritative Orbital Locus history remains in Crucible, and the context-logistics experiment remains in Unzip City.
