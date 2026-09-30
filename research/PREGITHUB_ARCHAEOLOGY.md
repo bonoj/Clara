@@ -423,3 +423,277 @@ This ordering is provisional.
 
 The next recovered conversation is allowed to break it.
 
+## Magic Map: the loop becomes explicit
+
+A deeper pass through the conversations recovers a stronger intermediate stratum between the Adventurer experiments and the later executable worlds.
+
+The apparatus was named **Persistent Generative Substrate / Magic Map — Genesis Protocol**.
+
+Unlike the earlier image sequences, this protocol explicitly separated three things:
+
+- an apparatus;
+- a world;
+- a situated perspective.
+
+The map was not defined as the world itself. It recorded accumulated **experienced state**. A notebook preserved meaning available from the situated perspective. A bare continuation turn could then run a compact loop:
+
+**experienced state → perspective → committed action or non-action → world response → smallest consequence → visible / recorded delta**
+
+This is important because several distinctions that archaeology had previously inferred from the images were already being stated operationally at the time.
+
+The perspective was not granted absolute narrative authority. What it knew was limited by what it had experienced. The world could contain more than the map exposed. The notebook could preserve situated findings without becoming omniscient truth.
+
+### Candidate generation was not commitment
+
+The associated restoration protocol sharpened another boundary.
+
+An image could serve as authoritative visible state while prose restored invisible invariants. A generated continuation was not automatically accepted merely because the model could render it.
+
+The contemporary formulation was:
+
+> Such an intervention is a move, not a declaration of its outcome.
+
+A failed render therefore did not have to mutate world state.
+
+This gives a more precise pre-GitHub loop than the archaeology had previously recorded:
+
+**persistent situation → bounded move → generative candidate → inspection → accept / reject → persistent residue**
+
+The distinction matters enormously.
+
+Generation was already being treated as a proposal against state rather than as state itself.
+
+### State is not scene
+
+The visual-continuity work produced an unusually crisp contemporary formulation:
+
+**State ≠ scene. Scene ≠ state.**
+
+When reconstructing a larger view from a close view, different references could be authoritative over different scales or kinds of information. One reference could govern Clara and the locally changed objects; another could govern the room's larger geometry.
+
+The instruction was effectively:
+
+**REVEAL, DON'T REGENERATE.**
+
+The camera could move backward without granting permission for the world to reset.
+
+This is stronger than the earlier archaeological description of a tether as merely helping visual continuity. The tether was functioning as a scoped authority source.
+
+The close view could answer what had changed locally.
+
+The wider reference could answer what was already there globally.
+
+Neither alone was necessarily sufficient.
+
+Later Crucible work makes this kind of scoped authority mechanically cleaner, but the earlier experiment had already encountered the practical necessity of composing state from partially authoritative representations.
+
+
+## Semantic delta as transaction boundary
+
+Another recovered stratum makes the path toward executable machinery less mysterious.
+
+A later architecture within the same pre-repository research separated:
+
+- latent or private continuity;
+- agentic decision;
+- a bounded human-inspectable semantic delta;
+- image realization;
+- state update.
+
+The renderer was explicitly demoted from being memory, agent, or simulator. It became a **projection surface**.
+
+The semantic delta was the small transaction between decision and realization.
+
+That separation allowed two failures that had previously been easy to conflate to become distinguishable:
+
+1. the decision itself was wrong;
+2. the decision was reasonable, but its rendering was wrong.
+
+This is a substantial methodological step.
+
+The model no longer needed to smuggle its entire intended state transition through pixels and hope the next image preserved it. A compact inspectable representation could state the intended change, while the raster became one realization of that change.
+
+In present vocabulary this resembles the later separation among authoritative state, projection, observation, and derivation.
+
+But the contemporary achievement should stand on its own:
+
+**intent became inspectable before realization became authoritative.**
+
+
+## History as executable world state
+
+A separate conversation from this period contains a phrase worth preserving because it describes what several experiments had begun to demonstrate:
+
+**history functioned as executable world state.**
+
+The important observation was not simply that the model had a long context window.
+
+Accumulated semantic experience altered what later actions were possible, sensible, surprising, or contradictory. Earlier consequences became machinery for later inference even when no complete ontology had been designed in advance.
+
+The phenomenon appeared across otherwise different experiments: attention probes, Digital Familiar work, Syntax Reroll, Collaboratory, and map-like worlds.
+
+This is one reason the old bare-arrow continuation turns could become so productive. The arrow itself carried almost no instruction. The accumulated situation constrained the next inference.
+
+That does not mean context was a reliable database or that all remembered state was correct.
+
+It means that sufficiently structured history could become **operational**, not merely descriptive.
+
+This gives the archaeology another distinction:
+
+**stored description** is not the same thing as **history that changes the next reachable move**.
+
+
+## Executable artifacts as continuity carriers
+
+The move into self-contained HTML artifacts introduced another continuity channel before the later repository-crossing machinery was mature.
+
+A frozen executable was described at the time as a **machine-readable behavioral specimen** or **context cartridge**.
+
+This deserves inclusion because it marks a transition from preserving only prose, images, and structured facts toward preserving **resolved causal behavior**.
+
+An executable artifact could carry something a screenshot could not:
+
+- what updates;
+- what collides;
+- what accumulates;
+- what remains deterministic;
+- what fails;
+- what another model can run and inspect rather than merely reinterpret.
+
+There was even a provisional idea of a library of executable concepts such as Bloom, Drain, Accrete, Lineage, Attention, Support, and Tide.
+
+The names are less important than the shift in carrier.
+
+A behavior could become externally inspectable residue.
+
+Later repository practice greatly strengthens this through source, semantic surfaces, Git history, tests, deployment, and provenance. But the archaeological seam begins earlier: continuity was no longer confined to remembered narrative or visual state.
+
+
+## From context continuity to organizational continuity
+
+By the time repositories and artifacts were becoming routine, another useful distinction had emerged as a continuity stack:
+
+**context-window → artifact → cross-thread → organizational continuity**
+
+This should not be read as a maturity ranking in which each layer replaces the previous one.
+
+Each layer can preserve different things and fail differently.
+
+A context window can preserve dense local relation while remaining ephemeral.
+
+An artifact can externalize selected state while losing the conversation that produced it.
+
+A cross-thread handoff can test whether enough survives discontinuity for legitimate continuation.
+
+A repository or organizational surface can preserve intent, implementation, observation, interpretation, failures, state, evidence, and uncertainty across many encounters, while still requiring later models to decide what is relevant.
+
+This helps explain why the current archaeology itself belongs in a repository rather than in a synthetic Clara biography.
+
+The repository can preserve disagreements among strata.
+
+It does not need to resolve them merely to make them portable.
+
+
+## A stricter reading of bounded autonomy
+
+The recovered material also improves the interpretation of bare continuation prompts such as ➡️.
+
+The earlier archaeology correctly observed that tiny human steering could produce coherent continued behavior once enough state existed.
+
+The stronger formulation is that the human control surface became small **because the situation had become large**.
+
+A bare continuation mark did not specify a goal, action, tool, or narrative event.
+
+It delegated resolution to accumulated constraints:
+
+- current perspective;
+- available evidence;
+- unresolved questions;
+- reachable affordances;
+- prior consequences;
+- current representational limits;
+- expectations established by the apparatus.
+
+This is not evidence of unconstrained autonomy.
+
+It is almost the opposite.
+
+The behavior became interesting because a dense bounded situation made many arbitrary continuations illegitimate while leaving more than one plausible next move.
+
+That is the same productive middle later experiments keep rediscovering:
+
+**enough constraint for consequence, enough openness for surprise.**
+
+
+## Revised archaeology questions
+
+The growing record suggests that the Crucible lens should now ask two additional questions of every older stratum.
+
+Alongside:
+
+- What was authoritative?
+- What could this locus know?
+- What crossed a boundary?
+- What persisted as consequence?
+- What was reconstructed?
+- What capability appeared under pressure?
+- What later encounter depended on it?
+
+also ask:
+
+- **What was merely generated, and what was actually committed?**
+- **Which residue changed the space of possible next moves?**
+
+Those questions distinguish visual plausibility from state transition and stored history from operational history.
+
+They are likely to matter as the crawl moves farther back.
+
+
+## Stratigraphy after this pass
+
+The evidence now suggests several interleaving lines rather than a single staircase.
+
+One line concerns **perspective**:
+
+**shared world / differing attention**
+→ **associative reachability**
+→ **situated Adventurer**
+→ **separable World and Window**
+→ **Magic Map world / perspective separation**
+→ **Phenome**
+→ **later formalized loci and apertures**
+
+A second concerns **commitment**:
+
+**generated continuation**
+→ **inspection and rejection become explicit**
+→ **state ≠ scene**
+→ **scoped reference authority**
+→ **semantic delta**
+→ **renderer as projection**
+→ **later authoritative executable state**
+
+A third concerns **persistence**:
+
+**conversation history**
+→ **notebook / map residue**
+→ **images and tethers**
+→ **executable behavioral specimens**
+→ **Continuity Lab's disagreeing channels**
+→ **Git / repository provenance**
+→ **cross-thread and cross-repository recovery**
+
+A fourth concerns **consequence**:
+
+**local visual change**
+→ **history constrains later inference**
+→ **Dual Substrate cross-surface transformation**
+→ **Foundry War adversarial precedent**
+→ **world outgrows board**
+→ **crossing into another locus**
+→ **later executable crossings**
+
+These strands should remain separate enough that future evidence can show they developed in a different order.
+
+The archaeology is now looking less like the invention of one system and more like repeated pressure on the same fault lines from different media.
+
