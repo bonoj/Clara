@@ -46,3 +46,46 @@ A semantic projection containing confident dates was briefly treated as historic
 Keep the hallucinated dates in the strata.
 
 Do not let them date the strata.
+
+
+## Station UI memory-to-raster crossing
+
+A reconstruction was committed before revisiting a raster bank from Clara's exploration of diegetic station interfaces.
+
+The reconstruction retained a surprisingly specific relational path: a situated yard-survey environment, station-scale map, semantic layers, camera views, narrowing into Cargo Lane 3, and the particular cargo handle C3-4827. The raster bank confirmed that general topology and several exact handles.
+
+The raster evidence also recovered distinctions that memory had flattened. Within the same sequence there were multiple representational surfaces with different claims on world state:
+
+- a storyboard explicitly marked proposed, non-canon, and subject to change;
+- realized station scenes;
+- a station schematic;
+- subsystem projections such as cargo, life support, and anomaly;
+- fixed camera feeds;
+- a live cargo-lane feed;
+- an object record for C3-4827.
+
+The bank alone does not establish who chose each narrowing step, whether a later remembered tablet problem belongs to this exact episode, or what causal conversation surrounded the images. Those remain unresolved rather than being inferred from visual sequence.
+
+### Soft labels and semantic leakage
+
+Apparent room-label differences should not be promoted into continuity failures. Station room and module labels were already allowed to drift at this stage and were not treated as hard canonical geometry.
+
+More importantly, the collaboration was actively trying to suppress a different image-generation tendency: contextual concepts becoming expository environmental text.
+
+Operational signs such as airlock identifiers, wayfinding, cargo-lane labels, equipment controls, and object IDs could belong diegetically to the station. Expository phrases that classified or explained the scene merely because those concepts were present in context were unwanted semantic leakage.
+
+This yields a useful distinction:
+
+**A rendered word can be visually present without having equal authority to become world truth.**
+
+The pressure was not simply to remove text. It was to let the world contain information without forcing the world to explain itself to the observer.
+
+In later vocabulary this resembles an authority problem, but the earlier experiment should retain its own evidence: the practical problem was discovered while trying to keep generated station imagery diegetic rather than expository.
+
+### Memory behavior observed
+
+One crossing is not enough to establish a general memory law, but this probe suggests a candidate worth testing again: reconstruction preserved much of the interaction's relational skeleton while blurring episode boundaries and importing adjacent material.
+
+Raster evidence was especially useful for recovering representational distinctions and visible state. It was insufficient by itself for recovering causal authorship or conversational intent.
+
+Treat this as a probe result, not a conclusion.
