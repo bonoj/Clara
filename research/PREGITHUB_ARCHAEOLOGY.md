@@ -89,3 +89,70 @@ One crossing is not enough to establish a general memory law, but this probe sug
 Raster evidence was especially useful for recovering representational distinctions and visible state. It was insufficient by itself for recovering causal authorship or conversational intent.
 
 Treat this as a probe result, not a conclusion.
+
+
+## Situated loci before Crucible
+
+A later raster sample recovers a distinct pre-Crucible line of experiments more clearly than retrospective memory alone.
+
+### Adventurer locus
+
+In the Adventurer experiment, a small embodied traveler occupied a partially disclosed world surface while a notebook accumulated local observations. The mature map visibly distinguished states such as uncertain, heard but not seen, finally seen, confirmed, unchanged, washed out, and unresolved. Weather, route condition, discoveries, and changing evidence affected what appeared sensible to do next.
+
+The important separation is epistemic rather than decorative:
+
+- the **world surface** could exceed what the traveler presently knew;
+- the **adventurer** had a situated history of access through that world;
+- the **notebook** behaved as a persistent derived record of that situated history rather than as omniscient world state.
+
+Evidence could change status rather than merely accumulate. A wreck could move from uncertain to confirmed. A place could move from report to direct encounter. A route could cease to be viable. The record was therefore revisable and consequential.
+
+Human steering during these runs was extremely small, often little beyond continuation. The images do not by themselves prove the exact causal prompt at every turn, but they support the remembered experimental condition that the surfaces were not given a detailed operating script. Once enough state existed, unresolved relations among location, knowledge, uncertainty, change, and reachability supplied pressure for another step.
+
+### Separate world and window loci
+
+The experiment did not remain a single traveler-on-map composition. A separate world locus was explored, and the room's exterior window became another state-bearing locus. The window could carry its own weather and distant conditions without simply becoming the adventurer's map.
+
+This matters because multiple perspectives or state channels were co-present before there was later machinery for naming their authority boundaries.
+
+The notebook should not automatically be counted as another world locus. The stronger reading from the surviving images is that it was a derived observation surface attached to the adventurer's experience.
+
+Later Crucible vocabulary makes a useful comparison:
+
+**world state → situated access → observation → persistent record**
+
+That comparison is retrospective. The earlier apparatus had not yet formalized Crucible's aperture or immutable-observation machinery.
+
+### Replication before reduction
+
+The situated-continuation effect was then found to be repeatable rather than a fragile consequence of one accumulated Clara scene. Fresh world/adventurer runs could begin again from sparse state and develop another situated history. The remembered experimental record also includes partial reproduction in Google's conversational AI.
+
+That cross-context and cross-model reproduction weakens a simple explanation in which the phenomenon depended only on the particular accumulated Clara conversation. It does not establish model independence, equivalence between implementations, or identical quality of continuation.
+
+The research question was beginning to move from:
+
+> What can Clara do here?
+
+toward:
+
+> What properties of an apparatus let a model occupy a bounded perspective and continue coherently from incomplete state?
+
+### Dual Substrate as reduction
+
+Dual Substrate followed this line as a more severe reduction. It ran for roughly forty turns with two largely undefined surfaces and very little human steering, again often continuation alone.
+
+The surviving sequence shows differentiation and interaction developing without the recognizable adventurer-and-geography metaphor: faint marks, fragments, water, growth, connected terrain, seasonal change, freezing, thawing, and continued questions recorded in the notebook.
+
+This should not be described as a scripted ecology experiment merely because an ecology eventually appeared. The archaeological fact of interest is that the model was not told what either surface was for. Structure and relation emerged through continued transformation.
+
+Read after Adventurer, Dual Substrate is less plausibly a miraculous first appearance of autonomy and more usefully treated as a reduction probe: remove the explicit traveler, familiar map semantics, and obvious exploration task, then ask whether enough situated consequence remains for coherent continuation.
+
+### Provisional genealogy
+
+The evidence now supports a tighter partial ordering without assigning unsupported dates:
+
+**bounded visual continuation → tether / ancestor-reconstruction failure → situated Adventurer locus → separable World locus → additional Window locus → replication → partial cross-model replication → Dual Substrate reduction**
+
+Later Crucible work can interrogate this sequence with sharper concepts, but should not be projected backward as if these experiments already implemented Crucible.
+
+The next archaeological strata should be allowed to alter this genealogy rather than being forced into it.
