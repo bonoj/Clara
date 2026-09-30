@@ -3396,3 +3396,245 @@ The architecture also changes inside the thread. In particular, v0.1 initially g
 
 **history becomes part of perception · memory-mediated salience · Meadow Rule · don't summon the dragon until you've verified the brick · world defines what exists / agent determines what matters / history changes what matters · experience modifies attention rather than policy · objective world / private salience · proposed salience updates · engine validates subjective proposals · same features, different attention · personality explicitly not implemented · interpreter of accumulated history · earliest useful LLM layer · proprioceptive window · visible attention as environment · one Moth / one Meadow / one question**
 
+## Primary archive refinement: Project Magic Map / Persistent Generative Substrate
+
+The September 17 **Project Magic Map** archive does not introduce an unknown branch so much as provide primary-source resolution for a stratum already partially reconstructed above. The thread preserves the T0 apparatus prompts, Genesis protocols, the two-surface Foundry reduction, restoration boundaries, Turn 59 save state, the case-study specification, and the contemporary **Context-Window Runtime / Semantic JIT** vocabulary.
+
+### Empty apparatus before world
+
+The earliest Magic Map prompt is unusually strict about separating apparatus from represented reality.
+
+T0 contains a large empty primary representational surface and exactly one empty secondary recording surface. No world, geography, protagonist, ontology, quest, meaningful grid, or implied backstory is allowed yet.
+
+The contemporary formulation is:
+
+**COMPLETE AS AN APPARATUS. EMPTY AS A WORLD.**
+
+Even the apparatus setting is denied authority over the eventual world's setting. A hard-science-fiction room does not imply a hard-science-fiction world.
+
+This is an early and explicit form of **representation jurisdiction**: the container may have properties that are not facts about what it later represents.
+
+### Empty space is functional
+
+The T0 Foundry instructions repeatedly resist decorative completion. Empty surface, empty notebook, sparse tabletop, and unused space are intentional because every unnecessary detail becomes a future continuity liability.
+
+This is more than visual taste. The apparatus is designed for repeated tethering, so representational complexity has a carrying cost.
+
+The archive therefore contains an early operational version of a principle that later appears in context engineering and repository work:
+
+**persistence has a carrying cost**.
+
+### Behavior, world response, representation
+
+The Genesis protocol gives a bare arrow a precise turn meaning:
+
+**current experienced state → perspective → committed action / non-action → world response → smallest meaningful consequence → visible / recorded delta → render**
+
+And then states the ordering directly:
+
+**Behavior comes first. World response comes second. Representation comes third.**
+
+The image is therefore not supposed to author the transition merely by depicting one. It is the realization of a resolved turn.
+
+### Human intervention is condition, not mind control
+
+A human statement about the world is treated as an external event or condition, not automatically as an instruction for what the situated perspective should think, feel, do, or become.
+
+Discussion outside the world likewise does not become perspective knowledge unless introduced through the world.
+
+This creates three separate jurisdictions inside a single conversational context:
+
+**human experimental discourse**
+
+**world condition / intervention**
+
+**situated perspective knowledge and action**.
+
+Later locus and crossing work makes these separations more mechanical, but Magic Map already requires them semantically.
+
+### Two surfaces remove spatial assumptions
+
+The Foundry variant deliberately replaces the map-like primary surface with **two adjacent non-spatial expressive surfaces** and an empty notebook.
+
+No relationship between the surfaces is prescribed. Neither has authority over the other. No rules are given for what may cross between them.
+
+This reduction is important. It strips away the accidental assumption that persistent state must be geographic or navigable.
+
+What later became Foundry War therefore begins as a test of whether differentiated persistent loci can emerge without predeclared ontology or relationship.
+
+### The notebook becomes epistemology
+
+By Turn 59 the archive explicitly describes the notebook as a third locus containing experienced events, interpretations, and unresolved questions.
+
+The contemporary summary is:
+
+> Two surfaces became ecologies. The third became epistemology.
+
+Questions in the notebook remain questions unless experience resolves them. Visible world state is not automatically perspective knowledge. Spatial grouping is not automatic evidence of allegiance or causation.
+
+This is stronger primary evidence for the later epistemic-locus reading already present in the archaeology.
+
+### Capacity is not authority
+
+The restoration and save-state protocols repeatedly state:
+
+> Capacity is not authority.
+
+An intervention is a move, not a declaration of outcome. An entity possessing a capacity does not establish that the capacity succeeds. Neither human nor Clara owns resolution merely by introducing an action.
+
+By deliberate play, the cleaner formulation becomes:
+
+**player owns intention; runtime owns consequence**.
+
+This is the generative-world counterpart to Carrier's earlier semantic-choice / mechanical-authority split.
+
+### Failed generation is not a turn
+
+The Turn 59 restore boundary records a particularly clean commitment rule. Image generation became unavailable after the canonical frame. The failed generation caused no world event, elapsed turn, observation, or state change.
+
+Therefore:
+
+**no render → no committed continuation**.
+
+This is strong primary evidence for the archaeology's earlier candidate-versus-commitment interpretation. Generative capacity alone does not authorize state mutation.
+
+### The visual head is authoritative but incomplete
+
+The restore protocol calls the supplied image the **authoritative visual head** and says it outranks the textual summary wherever they differ.
+
+But the notebook and protocol preserve information that is not reducible to pixels: epistemic limits, unresolved ambiguity, current command relationships, failed-generation boundaries, and rules of interpretation.
+
+So even here authority is already distributed by kind:
+
+**image owns current visible state**
+
+while
+
+**protocol / record owns selected invisible invariants and provenance**.
+
+The later scoped-authority work is not a new idea so much as a more explicit solution to a pressure already present here.
+
+### Cultivation becomes play
+
+The case-study specification records a categorical transition after enough consequence accumulated.
+
+Initially the lineage is treated as an experimental specimen. Later the accumulated state becomes rich enough that reckless interventions are interesting because they have something to collide with.
+
+The contemporary formulation:
+
+**A blank generative surface says: Tell me what you want.**
+
+**A cultivated substrate says: Make your move.**
+
+This is a useful account of how affordances can emerge from history without having been authored as a game system at T0.
+
+### Precedent becomes physics
+
+Water saturation, mud, goblin movement, haste infrastructure, dome boundaries, and subterranean passage become the canonical examples.
+
+No comprehensive rules table was authored beforehand. A local interaction resolves. Later moves can reason from that resolution.
+
+The archive is careful not to universalize precedent into a hard rule. 'Mud impeded these goblins here' does not automatically compile into a global movement modifier.
+
+The contemporary continuum is:
+
+**novel interpretation → local resolution → precedent → reinforced precedent → apparent mechanic**.
+
+The memorable shorthand is:
+
+> And precedent became physics.
+
+### Semantic JIT was already explicitly named
+
+The September 17 dev log is primary evidence that **semantic JIT compiler** and **context-window runtime** were contemporary concepts, not later archaeological labels.
+
+The proposed definition is approximately:
+
+**Semantic JIT compilation is the just-in-time conversion of underspecified natural-language concepts and accumulated precedent into locally executable relationships when an interaction requires resolution.**
+
+The key analogy is timing, not literal machine-code compilation. The system does not precompile the whole ontology. It interprets enough meaning to resolve the current encounter, and the result joins accumulated history.
+
+The loop is:
+
+**accreted history → current state → new intervention → semantic JIT → local resolution → generated artifact → new precedent → accreted history**.
+
+### Context-window runtime
+
+The dev log argues that a rolling context can contain enough protocol, prior interventions, generated artifacts, current visual head, relationships, unresolved questions, commitments, observations, and precedent to function as an execution environment rather than merely a memory buffer.
+
+Its careful qualification matters:
+
+**the context window is not the world**.
+
+Instead it contains the **currently executable representation of the lineage**.
+
+That explains drift, restoration, compression, loss beyond the rolling horizon, and the need for external state tethers.
+
+The historical research question becomes:
+
+**Can a rolling multimodal context become an executable semantic environment through accretion?**
+
+The contemporary answer is deliberately not 'proved yes.' The claim is only that the procedure produced behavior interesting enough for the question to become experimentally attackable.
+
+### State tether / visual head
+
+The dev log names the image a **visual head** or **state tether**: an externally rendered state artifact repeatedly supplied to constrain reconstruction toward an accumulated lineage.
+
+This generalizes immediately beyond images to possible textual, spatial, or audio tethers.
+
+That is a direct ancestor of later continuity carriers and repository-mediated crossings.
+
+### Evidence architecture appears immediately
+
+The proposed web case study insists that the lineage itself, not an essay about it, should be the centerpiece.
+
+Visitors should be able to scrub T0 through T59, distinguish human moves, Clara moves, bare turns, annotations, checkpoints, restores, and execution failures, and inspect the delta between supplied intervention and subsequent result.
+
+The documentation stance explicitly separates:
+
+**OBSERVATION / HYPOTHESIS / INTERPRETATION / UNKNOWN**.
+
+It also specifies that images are authoritative visual state while metadata records lineage and provenance rather than pretending to serialize the entire world.
+
+This is an important ancestor of later inspectable-provenance surfaces.
+
+### Magic Map under the larger archaeological lens
+
+Magic Map is mildly interesting only if viewed as a map experiment.
+
+As archaeology, it is a dense convergence point.
+
+Carrier had already separated semantic choice from mechanical legality. Moth isolated history-mediated attention. Magic Map then asks whether a multimodal generative lineage can preserve enough state, precedent, epistemic separation, and commitment discipline for underspecified concepts to become locally executable without a fully authored ontology.
+
+Its most durable contributions are therefore not fantasy cartography. They are:
+
+**apparatus ≠ world**
+
+**world state ≠ perspective knowledge**
+
+**intervention ≠ outcome**
+
+**generation ≠ commitment**
+
+**representation follows resolution**
+
+**precedent can constrain future semantics**
+
+**the current artifact can be authoritative within a limited jurisdiction**
+
+**a rolling context can carry an executable lineage without being identical to the world**.
+
+Those pressures lead almost directly into Foundry War, the later executable substrates, scoped authority, semantic surfaces, and eventually Crucible.
+
+### Archive authority note
+
+The recovered Gmail material is unusually close to primary protocol evidence. It includes prompts intended to generate T0, Genesis and restore instructions, a Turn 59 save-state description, a web-case-study implementation specification, and a contemporary conceptual dev log.
+
+The thread still contains retrospective interpretation, especially in the Turn 59 commentary and Context-Window Runtime vocabulary. Those interpretations should remain attributed to the contemporary experiment rather than promoted into universal findings.
+
+The actual lineage images are not established by this email-only pass. The emails establish protocol, claimed state boundaries, and contemporary interpretation, not independent visual verification of all 59 rendered turns.
+
+### Excavation handles
+
+**complete as apparatus / empty as world · empty space is functional · behavior / world response / representation · human condition is not perspective command · two non-spatial surfaces · notebook as epistemic locus · capacity is not authority · player owns intention / runtime owns consequence · failed generation is not a turn · authoritative visual head · state tether · cultivation creates toys · precedent became physics · context-window runtime · semantic JIT · accreted history · currently executable representation of the lineage · observation / hypothesis / interpretation / unknown**
+
