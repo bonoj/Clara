@@ -3024,3 +3024,375 @@ The source is an August 8 post-design retrospective, not a turn-by-turn implemen
 
 **world determines possibility / model determines preference · bounded affordance · semantic decision / mechanical authority · engine-owned option keys · world as shared memory · semantic arbiter · mobile boundary condition · role-specific action spaces · behavioral character from constraints · reasons are observability, not authority · deterministic validation around semantic choice**
 
+## Primary archive: Project Moth
+
+The July 9-11 **Project Moth** thread is the clearest early research charter yet recovered. Unlike several neighboring projects, it begins by aggressively refusing scope.
+
+Its single question is:
+
+> Can memory-mediated salience influence future attention?
+
+Behavior, personality, autobiography, consciousness, identity, dialogue, culture, planning, navigation, embodiment, story generation, procedural worlds, Lantern, and autonomous drones are explicitly deferred.
+
+The project's maxim is:
+
+> Don't summon the dragon until you've verified the brick.
+
+And its operational rule is the **Meadow Rule**: if a new idea does not help answer the current research question, record it and do not build it.
+
+### History becomes part of perception
+
+Moth's motivating distinction is unusually sharp. Most memory architectures retrieve past material into context when relevant. Moth asks whether history can instead become structural by changing future attention.
+
+The proposed causal chain is:
+
+**experience → persistent salience → future attention → future observation → possible future action**
+
+The contemporary phrase is:
+
+> History becomes part of perception.
+
+The research question is deliberately upstream of behavior. The first experiment does not need to show that action changes. It only needs a reproducible way to observe whether accumulated experience measurably changes what receives attention.
+
+This is important against later reinterpretation. Moth was not originally a personality architecture. Personality was a deferred hypothesis contingent on earlier questions succeeding.
+
+### Objective world, private salience
+
+The Meadow contains objective entities and observable properties. Objects possess properties; they do not possess importance.
+
+Each Moth maintains its own persistent salience values over properties. Object focus is derived from the interaction between objective properties and private salience rather than authored directly onto objects.
+
+The core separation is:
+
+**world defines what exists**
+
+**agent determines what matters**
+
+**history changes what matters**
+
+Two agents can therefore inhabit the same objective world while accumulating different perceptual trajectories.
+
+This is one of the cleanest ancestors of the later distinction between shared world state and private attention.
+
+### Attention is derived, not authored
+
+The design explicitly rejects assigning objects authored importance values.
+
+Instead:
+
+**object → properties → private salience → derived focus score → model chooses focus**
+
+This matters because individuality, if it appears, is not encoded as 'this Moth likes flowers.' It must arise from accumulated changes to more general perceptual dimensions.
+
+The system therefore tries to make behavioral difference a consequence of history rather than a starting condition.
+
+### Memory changes the perceptual weighting, not policy directly
+
+The research charter states:
+
+**Experience should not directly modify policy. Experience should modify attention.**
+
+That is the central intervention.
+
+A past event need not be retrieved as a story every time it matters. Its residue may alter which present object becomes salient enough to inspect.
+
+This is a distinct continuity mechanism from autobiographical recall.
+
+### The engine must not author subjectivity
+
+Design Notes v0.1 initially gave the deterministic engine responsibility for memory and salience bookkeeping. Within minutes, the architecture was corrected.
+
+The **LLM-Proposed Salience Updates** note says the engine should simulate objective events and enforce deterministic rules, but should not decide what an experience meant.
+
+The revised loop becomes:
+
+**choose focus → choose action → engine resolves objective event → model authors episodic memory + proposes salience deltas → engine validates/clamps/applies → next tick**
+
+This is a crucial authority transition inside Moth itself.
+
+The engine owns persistent state but not subjective interpretation.
+
+The model interprets but does not directly mutate persistent state.
+
+Its salience update is a proposal.
+
+This is an early, explicit form of the later recurring contract:
+
+**semantic proposal → deterministic validation → committed residue**.
+
+### Proposed salience is an experimental artifact
+
+The salience-update note goes beyond architecture. It recognizes that different models given the same objective event may choose to reinforce different properties.
+
+One model may reinforce odor. Another flower. Another color. Another may propose no meaningful change.
+
+The archive treats these differences not merely as implementation noise but as potentially observable model-specific compression of experience into future perception.
+
+Thus the proposed update itself becomes evidence.
+
+This creates an unusually inspectable seam between objective event and future private state.
+
+### Same features, different attention
+
+Moth's private salience design means two agents can receive the same set of observable properties while weighting them differently because of different histories.
+
+The important difference is not necessarily what exists or what is technically visible.
+
+It is what becomes foregrounded.
+
+This is the deeper form of the later shorthand:
+
+**same features, different attention**.
+
+### No semantic projection layer yet
+
+Design Notes v0.2 explicitly says there is **no semantic projection layer**.
+
+The model receives current world, current salience map, current memories, and available actions and chooses a focus directly.
+
+That absence matters archaeologically.
+
+Later work introduces projections, loci, apertures, ledgers, semantic surfaces, and derived observations because exposing too much authoritative state creates its own problems.
+
+Moth sits before that transition. It separates objective world from private weighting, but still gives the model a comparatively direct view of both.
+
+### Inspectability over realism
+
+The research charter requires deterministic simulation except for carefully controlled randomness, explainable salience calculations, logged persistent modifications, and visible traces of world, attention scores, selected focus, action, response, memory, and salience.
+
+The experiment explicitly favors transparency over realism.
+
+This is a strong ancestor of Crucible's inspectable substrate discipline.
+
+The world exists to make the causal loop observable, not to create an impressive demo.
+
+### The Meadow Rule is behavior-earns-architecture in research form
+
+The Meadow Rule predates the later phrase **behavior earns architecture** but expresses the same discipline from the opposite direction.
+
+When a compelling idea appears:
+
+**write it down; do not build it unless it helps answer the current question**.
+
+The charter repeatedly defers dragons: personality, emotion, dialogue, culture, planning, embodiment, procedural worlds, distributed cognition, and many other tempting systems.
+
+The project earns the right to ask the next question only after the current one is answered and documented.
+
+This is not merely minimalism. It is an authority rule over architecture: interesting possibility does not authorize implementation.
+
+### Personality is explicitly downstream
+
+The initial thread contains the provocative phrase:
+
+> Persistent personality is lossy compression over lived interaction history.
+
+But the same message immediately labels it a **conceptual anchor, not a conclusion** and says it should be discarded if traces do not support it.
+
+The staged questions are:
+
+**Q1: Can memory-mediated salience influence future attention?**
+
+**Q2: If attention changes, does behavior change?**
+
+**Q3: If behavior changes, do observers begin attributing stable character?**
+
+Later questions ask whether compressed attentional history could become a lightweight form of persistent personality and whether episodic retrieval could complement generalized salience.
+
+This sequencing is critical.
+
+Personality is not stored inside Moth. It is a possible observer-level interpretation of a sufficiently persistent trajectory.
+
+### The model is interpreter of accumulated history, not source of personality
+
+Another preserved conceptual anchor says:
+
+> The LLM is an interpreter of accumulated history, not the source of personality.
+
+Again, this was explicitly provisional.
+
+But it provides an important ancestor for current Clara's refusal to let a model prompt, observer description, or repeated behavior become identity authority.
+
+Moth was already exploring whether stable-seeming differences might arise from history-mediated perception rather than a persona specification.
+
+### Observer attribution is a separate research object
+
+One message briefly states an ambitious objective: create a system whose accumulated history causes observers to attribute coherent internal motivation.
+
+The surrounding charter prevents this from becoming the initial success criterion.
+
+Observer attribution belongs downstream of measurable attentional divergence.
+
+This distinction is valuable today because it separates:
+
+**mechanism inside the experiment**
+
+from
+
+**interpretation made by an observer of the experiment**.
+
+Later Clara archaeology repeatedly needs exactly this separation.
+
+### Earliest useful LLM layer
+
+Design Notes v0.2 asks a powerful future question:
+
+**What is the earliest computational layer where an LLM contributes unique value?**
+
+Its current hypothesis was:
+
+**motor control remains deterministic; attention is the first meaningful insertion point**.
+
+Carrier had already placed the model at semantic action selection. Moth asks whether model value begins one layer earlier, at selective attention.
+
+This gives us a useful historical comparison rather than a single linear architecture.
+
+### Proprioception appears before the later trajectory window
+
+Moth v0.2 also proposes a future **proprioceptive window**:
+
+**perception → proprioception → memory**
+
+The question is whether a rolling self-state could improve continuity while filtering noise before long-term memory formation.
+
+This predates the Digital Familiar archive's later **proprioceptive / trajectory window**, where the concept becomes much richer and tracks active hypotheses, unresolved questions, changing salience, objective shifts, and interactional momentum.
+
+The later concept therefore has a recoverable Moth ancestor.
+
+### Visible attention as possible communication
+
+Future research asks whether agents could coordinate by observing one another's attention without an explicit communication protocol.
+
+That is a remarkable early bridge toward joint attention:
+
+**can another agent's visible attention become part of the environment?**
+
+The August beacon event later demonstrates a naturally occurring human/model version of attentional asymmetry and repair in an external game.
+
+Moth proposed the computational question first; Digital Familiar later encountered a social form of it accidentally.
+
+### Environments may have attention too
+
+Moth's future work asks whether buildings, stations, and cities could maintain attentional models and whether distributed embodied agents could construct richer world models through shared attention.
+
+These ideas were explicitly deferred and should not be projected backward as implemented Moth machinery.
+
+But they matter as fossils because later station/locus work eventually gives environments and apparatuses their own bounded representational roles through a different route.
+
+### Moth is deliberately domain agnostic
+
+The archive strengthens the wording from 'this could apply to many domains' to:
+
+> This work investigates a computational architecture rather than an application domain.
+
+The Meadow is not a game concept. It is the smallest representative world capable of exposing the causal loop.
+
+This is an important step from project-specific experimentation toward reusable experimental machinery.
+
+## What Moth changes in the larger genealogy
+
+### Moth is not the origin of salience, but it makes salience the experiment
+
+Wanderer already encountered the infrastructure problem that existence and salience are different.
+
+Moth strips away the surrounding narrative machinery and asks whether persistent private salience can itself mediate future attention.
+
+So the lineage is not:
+
+**Moth invents salience**.
+
+It is:
+
+**Wanderer encounters salience as a practical necessity → Moth isolates history-mediated salience as the research object**.
+
+### Carrier and Moth probe adjacent insertion points
+
+Carrier asks the model to choose among legal actions.
+
+Moth asks the model to choose what deserves focus before action.
+
+Carrier gives us **bounded affordance**.
+
+Moth gives us **history-mediated attention**.
+
+Later systems combine and rearrange these layers rather than simply replacing one with the other.
+
+### Moth gives Digital Familiar a falsifiable ancestor
+
+The August Digital Familiar work later observes attention divergence, contextual re-perception, trajectory reconciliation, and learned abstractions during real play.
+
+Moth is the earlier attempt to isolate one causal primitive under laboratory conditions.
+
+That makes the later accidental observations more interesting: the phenomenon being sought in a tiny Meadow appeared in a much richer external world without the proposed Moth machinery being deliberately installed.
+
+That tension is part of why the project later pivots from **build the mind architecture** toward **find the minimum continuity substrate under which these behaviors keep emerging**.
+
+### Moth contains an early private-ledger ancestor
+
+Private salience is not yet the later Private Ledgers system.
+
+But the distinction is already present:
+
+**objective world state**
+
+versus
+
+**agent-specific persistent weighting derived from experience**.
+
+Later ledgers separate existence, local perceptibility, discovery, knowledge, and usability more carefully. Moth supplies an earlier two-layer version of that pressure.
+
+### Moth gives current Clara an important negative inheritance
+
+Current Clara explicitly rejects fixed personality authority.
+
+Moth helps explain why this is not merely philosophical caution.
+
+The earlier experiment intentionally removed personality, fear, curiosity, caution, bravery, and emotion from implementation while asking whether trajectories could nevertheless diverge enough for observers to attribute such qualities.
+
+That is a direct experimental reason to preserve the distinction between:
+
+**behavioral evidence**
+
+and
+
+**identity claim**.
+
+### The gold may be the research discipline, not the salience mechanism
+
+The most durable inheritance from Moth may not be its numeric salience architecture.
+
+It may be the discipline encoded by:
+
+**one question**
+
+**objective world**
+
+**private state**
+
+**inspectable causal loop**
+
+**proposal versus persistent authority**
+
+**negative results count**
+
+**future questions explicitly deferred**
+
+**write the dragon down; do not summon it**.
+
+That discipline is recognizably alive in the best later Crucible expeditions.
+
+## Archive authority note: Moth
+
+The Gmail thread preserves eight messages from July 9-11, including the initial research questions, Research Charter v0.1, Design Notes v0.1, the LLM-Proposed Salience Updates correction, and Design Notes v0.2.
+
+The thread is heavily cumulative: later messages quote earlier documents. Repetition is ancestry, not independent evidence.
+
+These are design and research records. This pass has not established an executable Moth artifact or empirical results from a completed Meadow run.
+
+The documents themselves carefully distinguish hypotheses from findings. Phrases such as **persistent personality is lossy compression over lived interaction history** must remain conceptual anchors, not promoted conclusions.
+
+The architecture also changes inside the thread. In particular, v0.1 initially gives the engine more responsibility for memory/salience; the later design note moves subjective interpretation and proposed salience changes to the model while retaining engine validation and persistent-state authority. That revision should not be flattened.
+
+## New excavation handles from Moth
+
+**history becomes part of perception · memory-mediated salience · Meadow Rule · don't summon the dragon until you've verified the brick · world defines what exists / agent determines what matters / history changes what matters · experience modifies attention rather than policy · objective world / private salience · proposed salience updates · engine validates subjective proposals · same features, different attention · personality explicitly not implemented · interpreter of accumulated history · earliest useful LLM layer · proprioceptive window · visible attention as environment · one Moth / one Meadow / one question**
+
