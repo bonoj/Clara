@@ -2544,3 +2544,355 @@ No executable CnC artifact has been established by this archive pass.
 
 These should be triangulated against the archived project documents and, if recoverable, the original *Into the Breach* conversation itself.
 
+## Primary archive: Project Wanderer
+
+The August 8 **Storyteller / Wanderer** retrospective reaches below CnC into an earlier architectural stratum.
+
+Its starting question was extremely small:
+
+> What happens if one LLM continuously tells a story while another LLM continuously inhabits it?
+
+There was no ordinary human player. Agency was split between **STORYTELLER**, which constructed situations and exposed possible actions, and **WANDERER**, which selected an action and pushed the fiction somewhere the Storyteller had not entirely chosen.
+
+The initial loop was:
+
+**Storyteller creates situation → generates affordances → Wanderer chooses → Storyteller mutates fiction → repeat**
+
+The retrospective's best description of what followed is:
+
+> a process of discovering all the machinery that prose alone fails to provide.
+
+### Affordance identity left the model first
+
+The Storyteller could propose semantic actions, but action identifiers belonged to the engine. The Wanderer selected an engine-owned key; the controller resolved it back into intent.
+
+The contemporary principle was:
+
+> LLMs PROPOSE MEANING.  
+> THE ENGINE OWNS IDENTITY AND CONTINUITY.
+
+The language model could describe what an action meant without becoming authoritative over the stable identity of the action.
+
+### The Wanderer creates uncertainty for the author
+
+The Wanderer was not interesting merely because it randomized among choices. The important observable property was that **the Storyteller could not know which possibility another agent would select**.
+
+A lone Storyteller controlling both situation and protagonist makes the protagonist's choices partly rhetorical. Splitting the roles introduced an information and agency boundary.
+
+This is an early form of a later recurring requirement:
+
+**another participant must be able to surprise the generator without becoming sovereign over the world**.
+
+### Prose versus established facts
+
+The first major failure was continuity.
+
+Pure prose contained enormous implicit state, but later model calls could not be trusted to reconstruct it indefinitely. The response was an explicit collection called establishedFacts.
+
+The distinction was:
+
+**PROSE**  
+what the Storyteller happened to say.
+
+**ESTABLISHED FACTS**  
+what the world was now obligated to remember.
+
+This is a major fossil. Long before later formulations of canon, semantic delta, authoritative world state, and accepted residue, the experiment had already discovered that generated language and committed persistence require different jurisdictions.
+
+The archive also recognized the next failure immediately: an indefinitely growing fact list merely recreates the context-window problem elsewhere.
+
+### The controller displaced the Storyteller
+
+As machinery accumulated, the architecture inverted.
+
+Initially the Storyteller looked like the center. Eventually it became one participant inside a deterministic orchestration layer:
+
+**world systems → controller → assembled context → Storyteller / Wanderer → controller → systems tick → next turn**
+
+The Storyteller did not need to know how weather worked. It needed to receive the current weather.
+
+This is an early instance of intelligence moving **out of the model** and into ordinary machinery.
+
+### The environment continues when nobody narrates it
+
+Weather was one of the first systems externalized from prose. Environmental state evolved independently and was injected into context.
+
+The contemporary principle:
+
+> THE ENVIRONMENT SHOULD CONTINUE HAPPENING EVEN WHEN NOBODY IS NARRATING IT.
+
+The environment could produce changing wind, temperature, and precipitation while the Storyteller realized those conditions as prose.
+
+Thus:
+
+**simulation state ≠ narrative realization**
+
+already exists here explicitly.
+
+### Presence and possession become engine questions
+
+NPC presence was externalized because prose was unreliable at answering:
+
+> WHO IS ACTUALLY HERE?
+
+Characterization remained a language/model problem. Presence became world state.
+
+Inventory followed the same split:
+
+> THE ENGINE REMEMBERS POSSESSION.  
+> THE LLM DECIDES WHAT POSSESSION MEANS.
+
+This pattern recurs throughout later work:
+
+**hard identity / continuity / physical truth below; semantic interpretation above**.
+
+### Narrative pressure: world urgency without scripted plot
+
+Weather made physical time pass but did not prevent dramatically inert continuation.
+
+The solution was **narrative pressure**: unresolved forces that could increase across ticks if ignored.
+
+An established fact says:
+
+**THIS IS TRUE.**
+
+A pressure says:
+
+**THIS IS TRUE, UNRESOLVED, AND INCREASINGLY DIFFICULT TO IGNORE.**
+
+The system did not need to script a bandit attack on turn 12. It could evolve a threat and let consequences become expressible under current circumstances.
+
+The system stores a force, not a plot.
+
+### Salience: existence is not foreground
+
+As facts, NPCs, objects, environment, pressure, and history accumulated, another failure appeared:
+
+**not everything can remain equally important forever**.
+
+The early salience system allowed foreground relevance to decay without deleting factual truth.
+
+The contemporary distinction:
+
+> EXISTENCE != SALIENCE
+
+and:
+
+> MEMORY ANSWERS WHAT HAPPENED.  
+> SALIENCE ANSWERS WHAT MATTERS NOW.
+
+This is a direct precursor to Moth, but the retrospective correctly warns against pretending the later attention architecture already existed here.
+
+What existed was the pressure:
+
+**world contains many things → relevance is unequal → relevance changes → context changes → model behavior changes**.
+
+### Salience and pressure are orthogonal
+
+The archive explicitly refuses to collapse salience and narrative pressure into one importance score.
+
+Salience is agent/context-side:
+
+**How foregrounded is this thing right now?**
+
+Pressure is world/story-side:
+
+**How strongly is this unresolved situation demanding consequence?**
+
+This permits:
+
+**salience LOW / pressure HIGH**
+
+The Wanderer has forgotten the rising river. The river does not care.
+
+Or:
+
+**salience HIGH / pressure LOW**
+
+The Wanderer is fascinated by a trinket that presently has no consequence.
+
+This is an early separation of **private relevance** from **external causal force**.
+
+### Time becomes explicit because systems need ordering
+
+Once weather, pressure, salience, presence, and other systems existed, turns became ticks.
+
+The loop matured into:
+
+**situation → affordances → Wanderer selection → controller resolution → world systems tick → narrative mutation → state update → next affordances**
+
+A mundane implementation problem exposed a real architectural requirement:
+
+**async ordering mattered**.
+
+The conceptual sequence had to be enforced or callbacks could scramble causality.
+
+The prose experiment was becoming a game loop because causal order had become part of truth.
+
+### Modular systems emerge from repeated subtraction
+
+The controller eventually discovered optional systems and assembled their outputs into model context.
+
+Environment, inventory, NPC presence, salience, narrative pressure, and established facts did not need to know how Storyteller generation worked.
+
+Different stories could use different systems while the Storyteller interface remained comparatively stable.
+
+This is a deep ancestor of later substrate thinking:
+
+**do not make the semantic model carry machinery that can live as modular ordinary systems**.
+
+### Hard state / soft realization
+
+By the mature prototype, the world had separated into two representations.
+
+**HARD STATE:** established facts, inventory, NPC presence, environment, narrative pressures, salience, tick.
+
+**SOFT REALIZATION:** description, tone, implication, dialogue, interpretation, atmosphere, motivation, interesting affordances, consequences.
+
+The archive is careful not to conclude that fiction should become JSON.
+
+The compact contemporary formulation is:
+
+> The models supplied semantics.  
+> The engine supplied persistence.
+
+This is one of the clearest ancestors yet recovered for the later semantic/executable split.
+
+### Storyteller, Wanderer, World
+
+The final architecture is not really two agents. It is three participants:
+
+**STORYTELLER — WANDERER — WORLD**
+
+The Storyteller proposes and interprets.
+
+The Wanderer desires and chooses.
+
+The World persists and changes.
+
+The retrospective's central result:
+
+> NONE OF THE THREE IS SOVEREIGN.
+
+The Storyteller cannot determine the Wanderer's choice.
+
+The Wanderer cannot determine what the world does.
+
+The World cannot determine what its changes mean narratively.
+
+Narrative emerges from their negotiation.
+
+This is an early statement of a pattern that later becomes pervasive:
+
+**meaning, agency, and causal truth should not collapse into one authority**.
+
+
+## Wanderer under the later archaeological lens
+
+### Development pressure moved intelligence out of the LLM
+
+The retrospective itself notices the direction of travel.
+
+Weather became a system. Presence became a system. Possession became a system. Continuity became established facts. Urgency became pressure. Foregrounding became salience. Time became ticks. Legal action became engine-owned affordances. Ordering became controller responsibility.
+
+Its most important retrospective sentence may be:
+
+> WE DIDN'T MAKE THE STORYTELLER SMARTER.  
+> WE MADE IT RESPONSIBLE FOR LESS.
+
+Likewise, the Wanderer was not asked to simulate a whole person. It received a bounded view of a persistent world and made one meaningful decision.
+
+This is an early form of what later work repeatedly rediscovers as **ordinary machinery around semantic judgment**.
+
+### Wanderer predates CnC's external-world triangle
+
+CnC later describes a deterministic game that can surprise both human and model.
+
+Wanderer already contains the structural precursor:
+
+**authorial possibility / agent desire / autonomous world process**
+
+No one participant owns trajectory.
+
+CnC changes the participants and strengthens deterministic world authority, but the three-way tension is already here.
+
+### Wanderer predates Moth's attention question
+
+Moth later asks whether persistent private salience can change future attention.
+
+Wanderer first encounters the infrastructure problem:
+
+**too much world to keep equally foregrounded**.
+
+That produces decay and the existence/salience distinction.
+
+Moth later turns the accidental infrastructure question into the experiment itself.
+
+### Wanderer predates later canon discipline
+
+Established facts are not yet the later sophisticated commitment machinery.
+
+But they already distinguish:
+
+**generated prose** from **world obligation**.
+
+This belongs in the commitment lineage alongside later:
+
+**pictures propose; actions commit**
+
+**candidate → inspect → accept/reject**
+
+**semantic delta → projection**
+
+and Crucible's authoritative executable state.
+
+### Wanderer is an early anti-homunculus result
+
+The project begins with two LLMs and progressively discovers reasons not to place more responsibility inside either one.
+
+That makes it an especially important ancestor to later model-forward systems.
+
+"Model-forward" did not emerge as "make the model own everything."
+
+An older lineage already points the other direction:
+
+**use the model where semantic judgment matters; externalize continuity, identity, causal process, and ordering when ordinary machinery can own them better**.
+
+
+## Archive authority note: Wanderer
+
+The available Project Wanderer source is an August 8 post-design retrospective.
+
+It is primary evidence for how the project was understood at that time, but not a turn-by-turn implementation log.
+
+It explicitly distinguishes later descendants that should not be retroactively claimed as implemented Wanderer machinery, including Backpack/Vault memory, Pacing Governor, Moth's deterministic attention system, persistent/private salience, and broader Middle-Out architecture.
+
+That warning should be preserved.
+
+The retrospective also mentions an earlier, more explicit spatial/adjacency representation that was abandoned in favor of accumulated established facts. The exact earlier implementation has not yet been recovered in this pass.
+
+No executable Wanderer artifact has been established by this archive pass.
+
+
+## New excavation handles from Wanderer
+
+- **all the machinery that prose alone fails to provide**
+- **LLMs propose meaning; engine owns identity and continuity**
+- **established facts**
+- **what the world is obligated to remember**
+- **environment continues when nobody narrates it**
+- **simulation state ≠ narrative realization**
+- **engine remembers possession; LLM decides what possession means**
+- **narrative pressure**
+- **existence ≠ salience**
+- **memory answers what happened; salience answers what matters now**
+- **salience LOW / pressure HIGH**
+- **causal ordering as world truth**
+- **hard state / soft realization**
+- **models supply semantics; engine supplies persistence**
+- **Storyteller / Wanderer / World**
+- **none of the three is sovereign**
+- **we didn't make the Storyteller smarter; we made it responsible for less**
+
+These handles materially deepen the genealogy beneath Moth, Digital Familiar, CnC, Syntax Reroll, Magic Map, and Crucible.
+
