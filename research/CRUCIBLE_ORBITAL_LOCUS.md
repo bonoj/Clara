@@ -103,3 +103,23 @@ This creates a concrete discontinuity probe:
 If the later Clara continues useful work, that will not by itself establish identity persistence, memory, or familiarhood. It will provide narrower evidence about what kinds of working continuity can survive outside the active model context and become consequential again after discontinuity.
 
 The Cargo 002 crossing should therefore remain Unzip City's experiment. Clara records only why its result may matter here. The authoritative Orbital Locus history remains in Crucible, and the context-logistics experiment remains in Unzip City.
+
+
+
+## Cargo 002 discontinuity result
+
+The discontinuity probe described above has now run once.
+
+A fresh receiving model began from Unzip City rather than from the outgoing working conversation. Unzip City's preserved crossing record reports that Cargo 002 was sufficient to recover the source authority boundary and working model, after which the receiver followed Crucible's own authority into its README and semantic surface and retrieved only the tail of the Orbital Locus chronology that active continuation required.
+
+The receiver did not make an executable Crucible mutation. That was not treated as failure. The recovered live edge was a research question rather than an earned feature request, and the available evidence did not authorize inventing new machinery merely to prove continuity. The receiver instead preserved the crossing evidence and stopped at the legitimate mutation boundary.
+
+The observed path was:
+
+**small entry point → derived projection → destination authority → present semantic truth → bounded chronology tail → legitimate stop/mutation decision**
+
+This is narrower evidence than identity persistence, autobiographical memory, or familiarhood. It does show that working continuity can survive a model/conversation discontinuity in external consequences and provenance strongly enough for a fresh receiver to recover not only relevant context, but also a reason **not** to act.
+
+That negative result matters here. Continuity need not be measured by how much prior material a later model reproduces or by whether it performs a visible mutation. In this crossing, selective recovery preserved an authority boundary and changed the receiver's behavior at the point where unnecessary action would have violated the experiment's discipline.
+
+The authoritative crossing record remains in Unzip City. Clara carries only this research-level consequence; nothing from the crossing is promoted into `continuity/`.
