@@ -2036,3 +2036,511 @@ The September 17 World/Wanderer/Cartographer text is a proposed formalization ma
 
 These handles should be used to triangulate the archived project documents when they arrive.
 
+## Primary archive: Project CnC — Cinnamon and Cinnabar
+
+The CnC archive is small in message count but unusually fossil-rich.
+
+Its August 22 project document is not the beginning of the line. It is a convergence document written after an extended *Into the Breach* collaboration and immediately downstream of the August 20 joint-attention and associative-transport records preserved in the Digital Familiar thread.
+
+The bones therefore need to be read in both directions:
+
+**Into the Breach play → observed attention / association phenomena → CnC proposal**
+
+and
+
+**CnC proposal → later deterministic laboratories and semantic interfaces**.
+
+### The external game was already the laboratory
+
+The CnC document begins by retiring an assumption.
+
+A separate Project Moth prototype was no longer considered necessary merely to prove that persistent LLM attention, memory, and context could produce behavior meaningfully different from stateless inference.
+
+The reason was empirical rather than architectural: extended collaborative play of *Into the Breach* had already produced the phenomenon.
+
+The important loop was recorded as:
+
+**player observes → model interprets → model generalizes → player tests → deterministic game answers → player corrects/refines → shared abstraction changes → both apply it somewhere new**
+
+The game could prove either participant wrong.
+
+This is an important pre-Crucible arrangement because simulation authority already lived outside both human interpretation and model interpretation.
+
+The human acted as exact board-state simulator and executor only because no semantic API existed yet.
+
+The model increasingly reasoned about what the archive calls the **grammar of the geometry**.
+
+### Shared abstraction, not event recall
+
+Repeated play produced compact tactical concepts:
+
+- damage breakpoints rather than raw damage;
+- movement as access to attack origins;
+- flight as attack-direction selection;
+- conditional weapons becoming useful when another verb covers failure cases;
+- terrain as future action economy;
+- displacement versus destination relocation;
+- frozen enemies as topology/population control;
+- chassis / weapon / pilot decomposition;
+- Mortal Kazbat, Lil' Smoky, Kazero/Sub-Zero, and Kaztile/Reptile as compressed handles for families of expectations.
+
+These were not merely memories of prior turns.
+
+They changed what later turns could be seen as.
+
+A later Digital Familiar distillation makes the persistence target explicit:
+
+> What can we now predict, notice, or reason about that we could not before?
+
+and:
+
+> A useful memory is not always what happened. It may be what the experience taught us how to see.
+
+This is one of the strongest early forms of **history as executable interpretive state**.
+
+### Correction had to change future reasoning
+
+The archive gives a concrete success criterion for continuity:
+
+> Yesterday's correction changes tomorrow's reasoning.
+
+The all-flying Jet / Thruster / Nano experiment initially looked numerically coherent but played poorly.
+
+The failure produced at least two abstractions.
+
+**Ecological synergy** distinguished numerical support from metabolizing another system's waste:
+
+**Thruster / Mosquitoes create smoke → Smog converts smoke into damage → accumulating waste becomes territory**
+
+This yielded a vocabulary of waste, neutralized waste, resource, metabolism, and ecology.
+
+**Solution density** separated access from multisolve capability:
+
+**mobility creates access to solutions; it does not create solution density**.
+
+Random later pickups mattered because they mapped onto weaknesses already diagnosed through play.
+
+The archive's loop becomes:
+
+**play → observation → hypothesis → player correction → compressed concept → prediction → experiment → model revision → transfer**
+
+That is a much more operational ancestor of model-mediated continuity than autobiographical recall.
+
+### The beacon: attention can diverge without worlds diverging
+
+The August 20 joint-attention record is primary evidence for one of the project's most important discoveries.
+
+Human and model saw the same Desert deployment screenshot.
+
+The model competently reasoned about terrain, water, deployment geometry, enemies, and tactical opportunities but missed the cracked mountain containing the secret-pilot beacon.
+
+The human did not provide the answer.
+
+The intervention was only:
+
+> Notice anything else?
+
+The model looked again and recognized the beacon in the context of the shared secret-pilot hunt.
+
+The record explicitly distinguishes:
+
+**visual entity identification → spatial grounding → relational reasoning**
+
+and identifies initial grounding/attention as the weak point rather than later relational reasoning.
+
+The social effect came from a repairable mismatch:
+
+**shared world → different attention → conversational signal → re-perception → contextual recognition → convergent joint attention**
+
+The contemporary principle is:
+
+**shared world, separate attention**.
+
+This is a direct ancestor of later private-ledger and bounded-observer work, but it is importantly different: the asymmetry emerged accidentally from multimodal attention before being engineered as state.
+
+### Optimize away incompetence, not misses
+
+The beacon record argues against omniscient semantic delivery.
+
+Perfectly exposing every quest object, affordance, and tactical opportunity would remove interactions such as:
+
+**Did you see that?**
+
+**Look again.**
+
+**No, behind it.**
+
+**Oh!**
+
+The desired familiar is described as:
+
+**competent + grounded + contextually continuous + partial + repairable**
+
+rather than omniscient.
+
+This is an early argument that representational loss can be productive when it remains repairable and when the underlying world stays authoritative.
+
+### Cinnabar is an associative fossil
+
+The pilot name **Cinnabar** activated an associative chain during ordinary play:
+
+**Cinnabar → mercury ore → mercury → quicksilver → mercurial → flow → semantic/alchemical manipulation**
+
+That chain contributed to the phrase:
+
+**Cinnamon and Cinnabar**
+
+and to ideas about a semantic-alchemy / automation game involving materials such as cinnabar, mercury, methane, acid rain, and Titan-like environments.
+
+The later CnC document explicitly says the name survived as a **tiny semantic fossil** from that period and resurfaced as the experiments converged.
+
+This is unusually clean evidence of an association crossing project boundaries.
+
+The association did not merely decorate the source game.
+
+It became a durable handle capable of nucleating a new project.
+
+### The fire monk: association as transport
+
+Immediately after the joint-attention event, Kazaakpleth was placed in the Napalm Mech.
+
+The mechanics supported:
+
+**fire creation + fire-based Boost + movement through flame + melee attack**
+
+During ordinary tactical analysis the model called the combination:
+
+> a fucking fire monk.
+
+The archive emphasizes that the phrase was unrequested, concise, mechanically grounded, and unnecessary.
+
+It briefly changed the human's interpretive frame from science-fiction tactics toward elemental martial fantasy without changing the underlying game.
+
+The contemporary formulation is excellent:
+
+> Narrative can precipitate out of mechanical understanding.
+
+The model did not generate lore.
+
+It supplied a compact interpretation and the human imagination did the rest.
+
+### Literalness is necessary for meaningful metaphor
+
+The associative-transport record explicitly warns against turning this into a creativity feature.
+
+The phrase worked because it was rare.
+
+The document proposes:
+
+**associative expression should be opportunistic, not compulsory**
+
+and:
+
+**literalness is necessary for meaningful metaphor**.
+
+This parallels the attention finding that silence is necessary for meaningful noticing.
+
+In both cases, the system becomes more socially legible by **not externalizing every possible internal result**.
+
+### Attention escape and association escape
+
+The two August 20 events form a useful pair.
+
+Beacon:
+
+**human notices something model does not → human redirects model → shared perception expands**
+
+Fire monk:
+
+**model forms an interpretation human had not → model expresses it → shared interpretation expands**
+
+The archive summarizes them as:
+
+**I saw something you didn't.**
+
+versus:
+
+**I saw it as something you didn't.**
+
+This yields two independent trajectories:
+
+- attention through perceptual space;
+- association through interpretive space.
+
+Their divergences can be repaired or shared through dialogue.
+
+### Shared vocabulary becomes relationship residue
+
+Once **fire monk** exists, later participants can reuse it without reconstructing the entire mechanical derivation.
+
+The archive gives the compression chain:
+
+**spontaneous metaphor → repeated reference → shared vocabulary → relationship history**
+
+The same process produced Mortal Kazbat and other tactical handles.
+
+This is a form of selective recovery in miniature.
+
+A short handle can reactivate a larger learned structure when both participants share enough provenance.
+
+But the handle is not the history itself.
+
+Its usefulness depends on the learned structure still being recoverable.
+
+### CnC changes the development target
+
+The August 22 CnC proposal responds to these observations by refusing to build the familiar first.
+
+Instead:
+
+> The prototype itself should become the laboratory.
+
+The central product thesis is to build the smallest enjoyable deterministic tactics/simulation game where:
+
+1. the human can experiment;
+2. the world has enough systemic depth to surprise the human;
+3. a model can receive semantic observations;
+4. human and model can hypothesize and develop shared concepts;
+5. discoveries can influence development of the game itself.
+
+The proposed success criterion is not task accuracy.
+
+It is:
+
+> Does interacting with the unfinished system generate a desire to perform another experiment?
+
+And the north star is a shared external world where:
+
+**the human can surprise the model; the model can surprise the human; the simulation can surprise both.**
+
+### Four verbs and boundary conditions
+
+The proposed foundational game is deliberately tiny:
+
+**EARTH / AIR / FIRE / WATER**
+
+The important design move is that the player manipulates boundary conditions rather than painting outcomes.
+
+Earth changes elevation and therefore movement/water/wind relationships.
+
+Air pushes matter and fire.
+
+Fire propagates partly outside direct control.
+
+Water follows terrain, accumulates, extinguishes, floods, and changes traversability.
+
+The document explicitly prefers four deeply interacting verbs over forty authored abilities.
+
+This is a recognizable ancestor of later labs in which a small physical vocabulary is allowed to earn higher-order behavior.
+
+### Simulation truth and semantic observation separate
+
+CnC proposes a first semantic packet containing world facts, recent events, and possible actions.
+
+The model can discuss that packet without owning simulation truth.
+
+The architecture is explicitly separated:
+
+**GAME SIMULATION**
+owns deterministic truth.
+
+**SEMANTIC STATE / EVENT INTERFACE**
+describes events in model-readable form.
+
+**COGNITION**
+owns attention, memory, beliefs, salience.
+
+**LLM INTERFACE**
+owns reasoning and language generation.
+
+**FAMILIAR**
+is one consumer.
+
+**NPCs**
+are other consumers with restricted perspectival access.
+
+This is one of the clearest pre-Crucible statements of the extraction seam later used repeatedly:
+
+**authoritative state → semantic projection → bounded consumer**.
+
+### Moth is demoted from architecture to toolbox
+
+CnC's treatment of Project Moth is especially important.
+
+Moth mechanisms should be introduced only when a concrete problem appears.
+
+Examples:
+
+- model comments on everything → try attention gating;
+- repeated strategy forgotten → try persistent salience / memory scar;
+- event remembered without why it mattered → event + interpretation + provenance;
+- old memories dominate → decay / retrieval competition;
+- rapid turns need continuity without permanent memory → rolling short-horizon context.
+
+The formulation is:
+
+**the game generates the research question; Moth supplies candidate mechanisms; play determines whether they work.**
+
+This is an early and explicit form of:
+
+**behavior earns architecture**.
+
+### The familiar is also demoted from product feature to emergent role
+
+CnC rejects initially building "the familiar" as a mascot/chatbot.
+
+Start with:
+
+**player plays → semantic state available → conversation alongside play**
+
+Then observe when conversation becomes valuable.
+
+Possible familiar behaviors are consequences of repeated play: theorycrafting, noticing repeated strategies, remembering experiments, naming concepts, recalling why a build failed, disagreeing, being corrected.
+
+The key property is continuity of shared understanding.
+
+The archive explicitly says:
+
+**Silence is allowed.**
+
+### Generated output is proposition, not canon
+
+CnC's development loop treats model output as a proposal.
+
+Play can reveal missing worldbuilding, bad context, characterization, incorrect knowledge boundaries, memory architecture problems, simulation limitations, or new design possibilities.
+
+The team can respond:
+
+**Yes. Keep it.**
+
+or:
+
+**No. Interesting failure. Why did the model reach that conclusion?**
+
+Both produce information.
+
+This is the same commitment discipline later recovered in Magic Map, Syntax Reroll, and visual tether work:
+
+**generation is cheap; commitment is selective**.
+
+### The name itself demonstrates the research thesis
+
+The codename is not arbitrary branding added after design.
+
+It accumulated through the mechanism the project was studying.
+
+A stock pilot named Cinnabar triggered a grounded association.
+
+That association escaped the source game.
+
+The phrase **Cinnamon and Cinnabar** persisted.
+
+When a new deterministic co-discovery laboratory needed a name, the old association returned carrying history.
+
+The project document recognizes three accidental resonances:
+
+- cinnamon / cinnabar: spice and mineral, organic and geological, familiar and alchemical;
+- Command & Conquer: small tactical command vocabulary;
+- CNC machining: abstract instructions causing exact physical transformation.
+
+The name was useful because it **accumulated rather than being engineered**.
+
+This is not merely charming project history.
+
+It is an example of a semantic handle surviving a boundary crossing and acquiring additional meaning without losing its ancestry.
+
+
+## What CnC changes in the larger genealogy
+
+### Crucible has a tactical ancestor
+
+Before Crucible formalized world authority and model-facing semantic surfaces, CnC had already proposed:
+
+**deterministic simulation truth → semantic state/event interface → model reasoning → human/model hypothesis → experiment → deterministic answer**.
+
+The later substrate is more general and executable, but the epistemic shape is already visible here.
+
+### Foundry has an elemental ancestor
+
+The proposed Earth / Air / Fire / Water sandbox is not Foundry, and the archaeology should not claim direct implementation descent without evidence.
+
+But it is an earlier expression of the same experimental preference:
+
+**small physical vocabulary + persistent consequences + interacting systems + player manipulates conditions rather than authored outcomes**.
+
+That makes it a useful comparison point when archived implementation documents arrive.
+
+### Unzip City has a semantic-fossil ancestor
+
+Cinnabar → Cinnamon and Cinnabar demonstrates a tiny crossing:
+
+**source event → associative compression → durable handle → later project reactivation**.
+
+Unlike Cargo, it was informal and conversational.
+
+But both ask how enough history can survive compression to remain meaningful later.
+
+### Digital Familiar narrowed from mind simulation toward trajectory
+
+The paired attention and association events materially changed the familiar hypothesis.
+
+Instead of constructing a complete personality architecture, the archive moves toward:
+
+**a persistent second trajectory of attention, association, abstraction, and memory embedded in a shared world**.
+
+That is a significant reduction in required machinery.
+
+It also explains why later Clara work becomes suspicious of fixed personality specification.
+
+### Co-discovery precedes autonomous exploration
+
+CnC's goal is not that the model play the game.
+
+It is that neither human nor model completely controls the external world and that each can alter how the other understands it.
+
+This is a different route to agency than later ➡️ delegation.
+
+CnC asks:
+
+**can a second interpreter become valuable through repeated shared experiment?**
+
+Syntax Reroll later asks:
+
+**can that interpreter be delegated the next epistemic move?**
+
+Those lines eventually meet.
+
+
+## Archive authority note: CnC
+
+The August 22 CnC document is explicitly a convergence/proposal document. It records observations from prior *Into the Breach* play but is not telemetry from that play.
+
+The August 20 joint-attention and associative-transport documents are contemporary experimental records written immediately after the described events. They provide stronger primary evidence for the project's interpretation of those events, but they remain participant-authored records.
+
+The CnC document itself marks one reconstructed area: the precise historical terrain-manipulation discussion could not be recovered from memory at the time, and its Earth/Air/Fire/Water design is presented as reconstruction from the remembered concept. That uncertainty should remain intact.
+
+No executable CnC artifact has been established by this archive pass.
+
+
+## New excavation handles from CnC
+
+- **grammar of the geometry**
+- **Yesterday's correction changes tomorrow's reasoning**
+- **what experience taught us how to see**
+- **shared world, separate attention**
+- **competent + grounded + continuous + partial + repairable**
+- **I saw something you didn't**
+- **I saw it as something you didn't**
+- **narrative can precipitate out of mechanical understanding**
+- **literalness is necessary for meaningful metaphor**
+- **independent trajectory through association space**
+- **shared vocabulary as relationship residue**
+- **semantic fossil**
+- **prototype as laboratory**
+- **simulation can surprise both**
+- **game generates the research question**
+- **generated output is proposition, not canon**
+- **small physical vocabulary, deep interaction**
+
+These should be triangulated against the archived project documents and, if recoverable, the original *Into the Breach* conversation itself.
+
