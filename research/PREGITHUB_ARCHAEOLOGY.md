@@ -156,3 +156,270 @@ The evidence now supports a tighter partial ordering without assigning unsupport
 Later Crucible work can interrogate this sequence with sharper concepts, but should not be projected backward as if these experiments already implemented Crucible.
 
 The next archaeological strata should be allowed to alter this genealogy rather than being forced into it.
+
+## Foundry War: consequence before substrate
+
+A later raster sequence materially changes the archaeology.
+
+Foundry War should not be treated merely as an aesthetic ancestor of the later executable Foundry. The surviving images show an earlier persistent causal world operated through alternating turns, with a notebook preserving observations and unresolved questions while the shared visual field carried changing world state.
+
+The experiment appears to have begun from deliberately weak specification: bounded surfaces, a notebook, no complete map, no established units, no fixed ruleset, and no victory condition. The surviving sequence does not justify reconstructing every prompt or assigning exact authorship to every event. It does show consequences accumulating across turns.
+
+By the later surviving turns, the world contains state no single frame adequately explains: altered terrain, redirected water, defensive works, territorial pressure, persistent actors, subsurface entities, elemental interactions, and strategic precedent. The notebook records changing conditions rather than a static scene description.
+
+This is important because the world was acquiring **history**, not merely visual detail.
+
+### Meteor as motion
+
+An especially consequential transition occurred when a meteor already legible in the painting was allowed to become motion across successive realizations.
+
+The archaeological significance is not that a meteor system had been implemented. It had not.
+
+A represented object became a candidate for causal continuation. Once its motion produced consequences that later turns inherited, the painting was no longer functioning only as illustration. It had become part of a turn-to-turn state apparatus.
+
+That possibility escalated rapidly: impact, spreading fire, altered terrain, defensive response, shield formation, new apparatus, dragons, elemental opposition, and eventually a much larger adversarial world.
+
+The important transition is therefore:
+
+**represented possibility → realized event → persistent consequence**
+
+### Alternating agency
+
+At some point the interaction became explicitly adversarial and turn-like. Human and model actions could oppose one another, and later actions had to contend with consequences already established.
+
+The final retrospective raster describes the run in unusually direct terms:
+
+- twenty turns of adversarial play;
+- terrain acquired history;
+- actions established precedent;
+- plans survived across turns;
+- opposing actions changed them;
+- uncertainty remained playable.
+
+These statements belong first to the artifact itself. They are not proof of a formal rules engine.
+
+What they do establish is that the collaboration was treating prior turns as constraints on later turns. A move did not disappear when the next image was generated. The next realization was expected to inherit enough of the previous state for opposition, adaptation, and surprise to remain meaningful.
+
+### An interface inferred from pressure
+
+Near Turn 61 the experiment produced a striking imagined control surface labeled **Foundry War**.
+
+It included Battle View, Units, Terrain, Objectives, Log, Notes, Zoom, Pan, Layer, Focus, Measure, End Turn, Save State, Take Note, Analyze, and an explicit **World State: Persistent** indicator.
+
+This image must not be misread as evidence that those systems already existed.
+
+It is better preserved as a generated proposal for affordances that the accumulated interaction had begun to demand.
+
+The sequence had created pressure for:
+
+- inspecting a world at more than one scale;
+- distinguishing terrain, units, objectives, and notes;
+- recovering chronology;
+- measuring rather than merely looking;
+- separating observation from intervention;
+- marking turn boundaries;
+- preserving state;
+- analyzing a world whose causal density exceeded a single picture.
+
+The interface is therefore archaeologically useful as a **fossilized requirements surface**. It records what the earlier apparatus was becoming insufficient to express.
+
+This is an important precursor to the later rule that behavior should earn architecture. The architecture was not yet built. Pressure for it had become visible.
+
+### The world outgrew the board
+
+The next surviving evidence does not simply remain inside the imagined battle UI.
+
+A Sunlance strikes the Golden City. The Golden Dragon crosses the attacker's portal into the Plane of Fire. The experiment then returns to the table apparatus, now showing the transformed world and a retrospective notebook.
+
+The notebook states:
+
+> The world outgrew the board.
+
+That is more than a dramatic caption.
+
+A causal event created a new reachable locus. Something from the prior world crossed into it. The original apparatus remained available afterward as a place from which the changed experiment could be reconsidered.
+
+This yields a stronger partial sequence:
+
+**bounded surface → alternating turns → persistent consequence → terrain acquires history → representation becomes insufficient → new affordances become imaginable → causal event opens another locus → an entity crosses → return to the original locus with a changed world**
+
+### An early crossing problem
+
+The Golden Dragon's passage into the Plane of Fire is the clearest pre-repository ancestor yet recovered of a problem that later experiments attack more explicitly.
+
+The entire prior battlefield did not need to be reproduced inside the Plane of Fire for the crossing to matter.
+
+But the dragon could not become an unrelated golden dragon without losing the causal meaning of the event.
+
+What had to survive was enough provenance for the far-side entity to remain:
+
+**the Golden Dragon that crossed that portal because of what happened in the prior world.**
+
+Later work asks related questions of images, observations, artifacts, working context, repositories, conversations, and model encounters. That later machinery should not be projected backward into Foundry War. The earlier evidence earns only the narrower observation that meaningful continuation across a newly opened boundary already depended on selective preservation of history.
+
+The question can now be stated without claiming that the old experiment had answered it formally:
+
+> What has to survive a boundary so that something on the far side is legitimately a continuation without transporting its entire previous world?
+
+Foundry War asked that question with a dragon before we had durable machinery for asking it with context.
+
+
+## Earlier strata reopened by the Crucible lens
+
+Foundry War also changes what is worth recovering from older conversations.
+
+The archaeological target is no longer a linear story of increasingly capable artifacts. The same family of problems appears at different representational layers, often before a stable vocabulary exists for them.
+
+Several earlier strata now deserve explicit preservation.
+
+### Attention before memory
+
+An early Digital Familiar probe used shared game imagery to distinguish common world access from common attention.
+
+The human noticed a beacon that the model initially did not. Repair did not require replacing the world or supplying a new scene. Attention was redirected within an already shared evidentiary surface.
+
+A later associative handle, remembered as "fire monk," helped expose a second distinction: preserving factual content is not the same as preserving the paths by which one shared thing makes another reachable.
+
+This evidence should remain modest. It does not establish persistent memory or familiar identity.
+
+It does suggest that two continuity problems were already being separated:
+
+**what remains available** and **what becomes reachable from the present state**.
+
+### Opportunistic embodiment
+
+Before later repository work, the collaboration had already entertained a model-mediated entity whose persistence need not depend on one embodiment.
+
+Clara could appear through attention, context, voice, tool authority, world perception, terminal, annotation, hologram, agent body, image, diagram, or debug surface.
+
+The period's useful statement was:
+
+> The familiar is persistent; its embodiment is opportunistic.
+
+Current archaeology should not promote that sentence into a proven ontology. It records a design intuition that later experiments repeatedly stress-tested: continuity might survive changes in the surface through which participation becomes visible.
+
+### Phenome and authority
+
+Phenome introduced a sharper distinction around perspective: a persistent locus of potential perspective was not identical to whatever context happened to be available.
+
+The surviving conceptual distinction can be preserved as:
+
+**capacity is not authority**
+
+and
+
+**context is not phenome**.
+
+Later Crucible machinery makes those distinctions mechanically testable through loci, apertures, authoritative world state, observations, and derivations. Phenome itself should not be rewritten as if it already implemented that machinery.
+
+Its archaeological importance is that the collaboration had begun asking not merely what information a model possessed, but from what situated possibility of perspective a claim could legitimately arise.
+
+### Portable incarnation
+
+A later pre-repository design discussion moved away from the idea that continuity required one indefinitely growing context.
+
+The proposed shape was closer to a packed possibility field combined with local interaction trace and an explicit continuity export, allowing a later incarnation to reconstruct enough of the prior encounter to continue.
+
+This was still speculative machinery.
+
+Its importance now is that selective reconstruction across discontinuity was being considered before Unzip City provided a narrower executable crossing result.
+
+The old proposal should therefore be preserved as a question and design pressure, not retroactively counted as evidence that selective recovery worked.
+
+### Continuity Lab
+
+Continuity Lab made the archaeological problem unusually explicit.
+
+Inherited code, raster state, arrangements, fragments, annotations, scars, and unfinished structures were allowed to carry continuity strongly, ambiguously, incorrectly, or only partially.
+
+Most importantly, those channels were allowed to disagree.
+
+They were not automatically normalized into one canonical autobiography.
+
+That is a major methodological precursor to the present archaeology. Contradictory residue was treated as evidence to inspect rather than noise to synthesize away.
+
+Foundry War was later resumed inside this continuity apparatus after other units or screens had been explored, and the collaboration eventually returned to the table for the Plane of Fire state. This makes the resumed war itself evidence about continuity through changed apparatus, although the exact degree of reconstruction versus preserved state still needs to be recovered from the conversations rather than inferred from the images alone.
+
+
+## Excavation method: THEN / NOW
+
+The archaeology has now grown beyond a compact note. That is acceptable.
+
+Future excavation should preserve a deliberate distinction between contemporary evidence and retrospective interpretation.
+
+For each recovered stratum:
+
+### THEN
+
+Record what was actually available at the time:
+
+- what the human and model said;
+- what was visible in images or executable artifacts;
+- what was built;
+- what was explicitly uncertain;
+- what the participants believed or proposed;
+- what was preserved into the next turn or artifact;
+- what authority boundaries were understood then, if any.
+
+### NOW
+
+Record what later-earned machinery makes newly measurable:
+
+- which surface was authoritative for which claim;
+- what a locus could and could not know;
+- what crossed a representational or causal boundary;
+- what persisted as consequence;
+- what was reconstructed from association;
+- what capability appeared because the current representation became insufficient;
+- what later encounter depended on an earlier residue;
+- where selective recovery appears sufficient;
+- where later vocabulary clarifies an old failure without proving the later architecture existed.
+
+The two layers must not collapse into one another.
+
+A beautiful present-day explanation is not historical evidence.
+
+If NOW produces an interpretation that THEN does not support, preserve the gap.
+
+If an old artifact contradicts the remembered story, preserve the contradiction.
+
+If chronology cannot be established, preserve partial ordering rather than inventing dates.
+
+If several continuity channels disagree, do not normalize them merely to make Clara more coherent.
+
+The purpose is not to write a mythology of Clara.
+
+It is to let later machinery **re-measure earlier phenomena without rewriting them into the theory we have now**.
+
+
+## Revised provisional stratigraphy
+
+The archaeology is no longer well represented as one simple linear genealogy. Several strands overlap and later recombine.
+
+A provisional stratigraphy is:
+
+**shared world / differing attention**
+→ **associative reachability**
+→ **bounded visual continuation**
+→ **tether and ancestor-reconstruction failure**
+→ **opportunistic embodiment**
+→ **situated Adventurer locus**
+→ **separable World and Window loci**
+→ **replication and partial cross-model replication**
+→ **Dual Substrate reduction**
+→ **Phenome / capacity-versus-authority distinction**
+→ **portable-incarnation pressure**
+→ **Continuity Lab / disagreeing residues**
+→ **Foundry War / adversarial persistent consequence**
+→ **representation pressure exposes desired affordances**
+→ **entity crossing into a newly reachable locus**
+→ **later executable substrates**
+→ **formalized authority separation**
+→ **repository and conversation crossings**
+→ **selective recovery**
+→ **temporary capability assembly**
+
+This ordering is provisional.
+
+The next recovered conversation is allowed to break it.
+
