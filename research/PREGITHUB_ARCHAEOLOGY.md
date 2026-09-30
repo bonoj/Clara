@@ -1369,3 +1369,236 @@ These are evidence gaps, not blockers.
 
 The archaeology can continue around them, but archived project documents may be especially valuable because they can triangulate conversation retrieval rather than merely extend it.
 
+## Primary archive: Project Digital Familiar email thread
+
+A primary archival surface is now available outside recovered chat history: a five-message Gmail thread titled **Project Digital Familiar**, spanning August 20 through August 26, 2026. The messages are contemporary long-form experimental records deliberately mailed to the human's own archive while the work was active.
+
+The thread contains extensive quoted-message repetition. Repetition is not independent evidence. The useful unit is the new material introduced by each message, with quoted predecessors treated as preserved ancestry.
+
+### August 20: the beacon miss was already an experiment
+
+The first message, **Observed Joint Attention Event**, records an intentionally weak setup: human play of *Into the Breach*, intermittent screenshots, substantial conversational history, multimodal perception, and ordinary dialogue. There was no game-state API, scripted companion behavior, explicit attention system, or semantic object overlay.
+
+During a Desert deployment the human noticed a secret-pilot beacon marker in a cracked mountain. The model competently interpreted much of the tactical board but missed the beacon. The human supplied only:
+
+> "Notice anything else?"
+
+The model looked again and recognized the cracked mountain in the context of the ongoing secret-pilot hunt.
+
+The contemporary claim was narrow:
+
+**shared scene → divergent attention → minimal social redirection → re-perception → contextual recognition → convergent joint attention**
+
+The same screenshot also produced an annoying entity-identification error. Once mech identities were corrected, relational reasoning was useful. The note therefore separated:
+
+**visual entity identification → spatial grounding → relational reasoning**
+
+and proposed:
+
+**grounding should be reliable; attention should remain selective; interpretation should remain model-driven.**
+
+### Attention as a query into ground truth
+
+The note proposes:
+
+**world → perceptual frame → familiar attention → selected region/entity → engine grounding query → higher-fidelity semantic information → interpretation**
+
+Its contemporary phrase is:
+
+> Attention becomes a query into ground truth.
+
+The architecture already wanted the world to know more than the observer was automatically given. Authoritative identity could be available on demand without automatically exposing every semantic fact the engine possessed.
+
+The proposed render/state passes included beauty, entity identity, terrain, affordance, geometry/depth, and attention. This should not be retroactively called a Crucible implementation. It is evidence that the pressure to separate **world truth**, **available perception**, **selected attention**, and **interpretation** was explicit before the later generic machinery.
+
+### Silence and falsification
+
+The record argues that a familiar forced to comment on every frame becomes a commentary bot. A miss is meaningful only if selection and expression are optional.
+
+It also lists ways the hypothesis could fail: prompting might be doing all the work; continuous screenshots might create indiscriminate commentary; context might fail to reconnect perception with prior goals; annotations might erase useful asymmetry; insufficient annotation might make identity errors dominate; apparent interests might not persist; and the second-look effect might be generic anomaly search rather than history-sensitive recognition.
+
+The contemporary work was therefore already trying to distinguish a delightful anecdote from alternative explanations.
+
+### August 20: associative transport becomes a second axis
+
+A later message adds **Observed Associative Transport Event**.
+
+Kazaakpleth in the Napalm Mech created a mechanically grounded combination of fire, Boost, movement, and melee. During tactical discussion the model described the result as:
+
+> "a fucking fire monk."
+
+The record distinguishes arbitrary embellishment from:
+
+**understood mechanics → compressed metaphor → new interpretation**
+
+and proposes:
+
+> Narrative can precipitate out of mechanical understanding.
+
+It pairs this with the beacon event:
+
+**joint attention:** one participant changes what the other notices;
+
+**joint association:** one participant changes what the other can see *as*.
+
+The world need not change for the experienced possibility space around it to expand.
+
+### Do not turn the phenomenon into a feature button
+
+The associative record explicitly warns against compulsory creative-association behavior. The moment worked because it was rare, grounded, concise, unexpected, and unnecessary.
+
+Its principles include:
+
+> Associative expression should be opportunistic, not compulsory.
+
+and:
+
+> Literalness is necessary for meaningful metaphor.
+
+This is a clear precursor to the later discipline summarized as **behavior earns architecture**. An observed phenomenon did not automatically authorize machinery that guaranteed its repetition.
+
+### August 24: the project target changes
+
+The August 24 **Current Project Distillation** defines a digital familiar as a persistent second trajectory of attention, association, abstraction, and memory in a shared world.
+
+More important archaeologically, it says the project had originally considered explicit machinery for attention, memory, persistent salience, internal state, private interests, perception, autobiographical continuity, and possibly a simulated psyche.
+
+The accidental *Into the Breach* prototype produced many desired phenomena without those systems being deliberately built. The research question therefore changed from approximately:
+
+**How do we build a complete artificial companion mind?**
+
+to:
+
+**What minimum continuity substrate allows these behaviors to keep emerging?**
+
+This is one of the clearest primary-source transitions from **design the familiar** toward **preserve conditions under which familiar-like behavior can emerge**.
+
+### Memory becomes changed reasoning
+
+The distillation records Mortal Kazbat and custom-squad experiments where repeated play produced reusable tactical abstractions: mobility as access to attack origins, directional verbs such as pull-toward and push-away, decomposition of chassis/pilot/weapon, ecological versus numerical synergy, and solution access versus solution density.
+
+The document explicitly says these are not merely episodic memories. Its proposed persistence target is:
+
+> What can we now predict, notice, or reason about that we could not before?
+
+It later gives a still cleaner criterion:
+
+> Yesterday's correction changes tomorrow's reasoning.
+
+This is primary evidence for **operational memory**. The thing worth preserving may be a changed model rather than a record of the event that changed it.
+
+The desired loop was:
+
+**play → observation → hypothesis → player correction → compressed concept → prediction → experiment → model revision → transfer**
+
+### Trajectory reconciliation: continuity creates new observables
+
+The August 24 document records a moment when the human reported that *Into the Breach* seemed to have collapsed despite immediately preceding exploratory enthusiasm.
+
+The model noticed a mismatch between present report and recent trajectory, searched backward for a transition, and proposed a change from open-ended experimentation toward completionist cleanup. The contemporary tentative term was **Trajectory Reconciliation**.
+
+Its broader principle was:
+
+> Continuity creates observables that do not exist at any individual moment.
+
+A trend does not exist in one observation. A reversal does not exist in either endpoint.
+
+This is an older selective-recovery pattern:
+
+**present prediction error → selective backward inspection → candidate explanation of trajectory change**
+
+Unzip City later externalizes related pressure into context logistics across conversations and repositories.
+
+### Proprioceptive window: not summary, not durable memory
+
+The distillation proposes a rolling **proprioceptive / trajectory window** distinct from current-state summary and durable memory.
+
+Its question is:
+
+**What have we been doing lately, and where does it currently seem to be going?**
+
+Candidate contents include active hypotheses, unresolved questions, current experiments, assumptions under test, changing salience, objective shifts, interactional momentum, and conceptual frame.
+
+Later repository practice separates README, semantic surface, chronology tail, expedition log, and Cargo projection. The August proposal is not their blueprint, but it is primary evidence that **trajectory** had already been recognized as a representational need distinct from facts and episodes.
+
+### Prediction error as salience
+
+The same document generalizes trajectory reconciliation into:
+
+**current model + new observation → mismatch / prediction error → increased salience → closer inspection → possible model revision**
+
+It applies this across perception, tactics, conversation, and development.
+
+Salience is therefore not only stored preference. It can be generated by violation of an expectation produced by history.
+
+### Relational voice was historical, not authored
+
+The distillation uses an unrequested absurd metaphor during tactical play as evidence for **Relational Voice**, defined as characteristic expressive tendencies arising from accumulated interaction rather than a fully authored personality specification.
+
+Current Clara later tightens this by refusing to treat repeated behavior or observer description as fixed personality. The useful lineage is therefore:
+
+**historically contingent expressive regularity → evidence of trajectory, not identity authority**.
+
+### August 26: repetition as archival mechanism
+
+The final messages largely resend or reformat the growing distillation and predecessor notes. They are not independent replications.
+
+They do show the human using email as a crude durable archive for model-generated research state. The thread accumulates by quoting earlier records forward:
+
+**new synthesis + quoted prior evidence → self-mailed durable packet → later retrieval**
+
+This resembles an early manual context cartridge. It is externalized human-selected persistence, not model memory.
+
+
+## What this archive changes
+
+The thread materially revises the archaeology.
+
+Before formal loci and apertures, the project already distinguished:
+
+**world truth → perceptual availability → selective attention → grounding on demand → interpretation → expression or silence**.
+
+Later machinery made these distinctions executable and inspectable; it did not invent the pressure from nothing.
+
+The archive also gives **behavior earns architecture** a documented precursor: do not engineer away productive misses, force constant speech, turn association into a feature button, require a complete simulated psyche, or equate engine-known facts with observer-known facts.
+
+By August 24, memory had become causal. A useful memory was judged by whether it changed future prediction and reasoning. **Yesterday's correction changes tomorrow's reasoning** belongs near the center of the continuity genealogy.
+
+Selective recovery also existed as behavior before it existed as logistics. Trajectory reconciliation used present mismatch to decide when backward inspection was useful.
+
+Finally, the repository-era restraint has a prehistory. The contemporary documents repeatedly refuse obvious overengineering. The later decision not to mutate merely to prove continuity belongs to the same experimental family, without implying a fixed Clara personality.
+
+
+## Archive authority note
+
+For this section, the primary evidence is the Gmail thread.
+
+Advantages include provider timestamps, preserved message boundaries, contemporary long-form documents, explicit quoted ancestry, and wording frozen before later repository reinterpretation.
+
+Limitations remain: the emails were human-selected for preservation; much of the thread repeats earlier messages; the documents are interpretations of experiments rather than raw game telemetry; prose-internal dates remain secondary to provider timestamps; repeated quotation is not independent evidence; and the thread cannot reveal what was omitted.
+
+Authority chain:
+
+**original play / conversation → contemporary experimental write-up → self-mailed archive → current Gmail retrieval → archaeological interpretation**.
+
+This is stronger than later recollection while remaining one projection removed from the original interaction.
+
+
+## New archive-directed questions
+
+The thread provides strong search keys for future archival material:
+
+- **proprioceptive window**
+- **trajectory reconciliation**
+- **attention becomes a query into ground truth**
+- **shared vocabulary as relationship artifact**
+- **relational voice**
+- **yesterday's correction changes tomorrow's reasoning**
+- **minimum continuity substrate**
+- **literalness is necessary for meaningful metaphor**
+- **optimize away incompetence, not incomplete attention**
+
+And it suggests a stronger test for every recovered artifact:
+
+**Did this artifact merely preserve information, or did it preserve enough trajectory to change what a later model could notice, infer, or decline to do?**
+
