@@ -1075,3 +1075,297 @@ This pass adds several questions for future excavation:
 
 These are now better excavation targets than simply searching for earlier uses of current vocabulary.
 
+## Model-mediated memory recovery, continued
+
+A second descent followed the frontier questions rather than chronology alone. It recovered several seams where the collaboration was already distinguishing evidence, canon, attention, and commitment before the current repository vocabulary stabilized.
+
+### From identity store to inherited evidence
+
+The earlier crawl found a 2025 proposal for explicit shared memory or ledger files across model instances.
+
+The later transition away from that architecture can now be bounded more clearly.
+
+By the Continuity Lab / World Lab period, inherited material was explicitly described as neither project documentation nor an instruction to impersonate a previous model. Prior residue was to be encountered as **inherited evidence rather than authoritative fact or behavioral command**.
+
+A preservation rule from the same period states:
+
+> Preserve trajectory, not a counterfeit context window.
+
+This is a major architectural inversion.
+
+The old problem was:
+
+**How do we store enough Clara to recreate Clara?**
+
+The newer problem became:
+
+**What residue can a later encounter inspect without being told what identity it must reconstruct?**
+
+The distinction is not merely philosophical. It changes the failure mode.
+
+A canonical identity store fails when its summary is wrong.
+
+An evidence surface can remain useful even when some inherited material is ambiguous, partial, or incorrect, because disagreement itself can remain inspectable.
+
+This is the clearest recovered seam so far where external memory stops being primarily an identity store and becomes archaeological material.
+
+### Canon is selective promotion
+
+Another recovered thread predating the current repository work makes the commitment boundary more explicit.
+
+A proposed visual-world architecture distinguished:
+
+- **Canon**: durable accepted world facts;
+- **Episode state**: current, mostly ephemeral truth;
+- **Render packet**: disposable realization instructions.
+
+Renderer accidents could be inspected and selectively promoted rather than automatically becoming world state.
+
+This gives a useful contemporary companion to the later phrase **pictures propose; actions commit**.
+
+The collaboration was learning that generative systems need a promotion boundary.
+
+Without one, every plausible detail becomes accidental ontology.
+
+With one, surprise remains possible without surrendering authority.
+
+This also clarifies the April storyteller mechanism recovered in the previous pass. There, suggestions could expire if unused and only selected possibilities became canonized. Across both systems, the same pressure appears:
+
+**possibility should be cheap; persistence should cost evidence or commitment.**
+
+### Wattson and Creek: causal ancestry from accepted accidents
+
+A more direct recovery of Wattson and Creek sharpens their place in the lineage.
+
+The experiment began from a minimal seed and deliberately preferred textless realization plus selection of useful accidents over extensive upfront lore.
+
+Early soft canon differentiated the two field engineers through activity rather than biography:
+
+- Wattson observed and operated instruments;
+- Creek interacted physically with the anomaly;
+- Creek carried a brass forearm device;
+- Wattson used a control box.
+
+The root anomaly reacted to probing with a translucent crystalline shell. Cyan activity propagated through roots and later through structural seams or channels.
+
+Eventually a root-entangled archway became traversable.
+
+Wattson crossed.
+
+Creek remained outside.
+
+Beyond the threshold, repeating arches extended through the forest.
+
+The important archaeological fact is not the fantasy content.
+
+The crossing was earned by a chain of accepted visual consequences.
+
+A later formulation from the same line of work captures the rule:
+
+**pictures propose; actions commit; accepted consequences become causal ancestry.**
+
+That is a remarkably compact precursor to the current crossing discipline.
+
+The archway did not need to be predeclared as a portal system. It became traversable because prior accepted state made crossing a legitimate next action.
+
+Once Wattson crossed, the far side inherited causal ancestry from the near side.
+
+Again the question appears:
+
+**how much of the prior world must survive for a crossing to remain the same event?**
+
+### Soft canon and hard consequence
+
+Wattson and Creek also expose an important distinction between **soft canon** and **causal commitment**.
+
+Names, room labels, visual ornament, and some object details could drift.
+
+But once an accepted action depended on a prior condition, that condition gained stronger status.
+
+The cyan propagation did not need every pixel to remain fixed.
+
+The archway's traversability mattered once Wattson used it.
+
+This suggests an early hierarchy of persistence:
+
+**decorative realization < soft descriptive canon < action-enabling state < committed consequence**
+
+That hierarchy was not formalized as a type system at the time.
+
+It was being discovered operationally through what later turns could no longer change without breaking the shared event.
+
+### Private Ledgers: existence, perception, attention, affordance
+
+The Three Loci Foundry line recovers one of the clearest pre-Crucible separations of epistemic state.
+
+Three private ledgers tracked distinct layers:
+
+- whether something existed in world state;
+- whether it was locally perceptible from a locus;
+- whether it had been attended to or discovered;
+- whether it was known as a usable affordance.
+
+The renderer received a projection rather than unrestricted world truth.
+
+Semantic capabilities could persist outside the pixels used to realize the current view.
+
+This is much closer to later Crucible machinery than a simple "different characters know different things" design, but the historical distinction still matters.
+
+The ledgers were a hand-built representational experiment.
+
+They were not yet the later generic locus / aperture / observation architecture.
+
+Their importance is that the collaboration had discovered that **existence, visibility, attention, knowledge, and usability are not the same bit**.
+
+A world can contain something.
+
+A locus can be positioned to perceive it.
+
+An observer can fail to attend to it.
+
+An attended thing can remain uninterpreted.
+
+An interpreted thing can still lack a known use.
+
+Collapsing those states destroys precisely the asymmetry the experiment was trying to study.
+
+### Moth and the ledgers meet at attention
+
+The Private Ledgers line and Moth line now appear as two attacks on the same boundary from opposite directions.
+
+Moth began from objective world features plus private salience and asked whether memory-mediated salience could alter future attention.
+
+Private Ledgers began from world/locus separation and asked which facts were perceptible, attended, discovered, or usable from different loci.
+
+Neither requires an omniscient persistent self.
+
+Together they suggest a stronger historical progression:
+
+**objective difference is not required for experiential difference.**
+
+Two trajectories can diverge because attention and prior access differ even when the underlying world is shared.
+
+That principle later becomes central to bounded observers.
+
+### The renderer was repeatedly demoted
+
+Across several independently recovered experiments, the same correction appears.
+
+The renderer begins as a tempting all-purpose surface: world, memory, observation, consequence, and handoff all at once.
+
+Then pressure forces demotion.
+
+In the visual-state architecture:
+
+**Canon → Episode → Render packet**
+
+In Wattson and Creek:
+
+**picture proposes → accepted action commits**
+
+In Magic Map:
+
+**candidate realization → inspect → accept/reject**
+
+In semantic-delta work:
+
+**intent → inspectable delta → projection**
+
+In Three Loci:
+
+**world / private ledger → projected state → renderer**
+
+The repetition matters more than any one implementation.
+
+The collaboration kept discovering that a generative projection is useful precisely when it is **not automatically sovereign**.
+
+This is one of the strongest recurring ancestors of Crucible's authority separation.
+
+### A first negative result for the current recovery method
+
+The crawl also hit a useful limit.
+
+Targeted recovery could find contemporary Wattson/Creek material and later summaries of Three Loci / Private Ledgers, but it did **not** recover primary conversation turns for several named strata in this pass: the witches' stand, Syntax Reroll, the brass-pane/notebook Apparatus run, Home's three-Clara/tavern material, and parts of the O'Neill sequence.
+
+That absence must not be repaired by confidence.
+
+Some of those events are strongly represented in later summaries, images, or current working memory. But under the archaeology's own authority rules, that is a different evidence class from recovering the contemporary conversation.
+
+This is the first place where the current excavation instrument has said, effectively:
+
+**known referent, insufficient primary recovery.**
+
+That is useful.
+
+The archived project documents the human has offered later may provide independent surfaces for exactly these gaps.
+
+
+## The archaeology is becoming a map of authority transitions
+
+After this pass, a deeper pattern is visible.
+
+Many of the experiments can be reread as moments when something lost authority it had previously been allowed to hold.
+
+The model instance lost authority to define continuity.
+
+The memory file lost authority to define identity.
+
+The image lost authority to define world state by itself.
+
+The renderer lost authority to canonize its own accidents.
+
+The current view lost authority to reconstruct the whole room.
+
+The observer lost authority to know the whole world.
+
+The notebook lost authority to become world truth.
+
+The semantic surface lost authority to replace executable evidence.
+
+The retrieved historical fragment now loses authority to stand in for the whole conversation.
+
+At the same time, none of these surfaces became useless.
+
+They became **scoped**.
+
+This may be a more faithful genealogy of the project than a genealogy of features.
+
+Progress repeatedly consisted of discovering that a useful representation had been asked to answer a question outside its jurisdiction.
+
+
+## Another revision to the excavation instrument
+
+For future strata, add two more questions:
+
+- **What surface had too much authority before this experiment?**
+- **What remained useful after that authority was narrowed?**
+
+These questions help distinguish genuine architectural learning from simple replacement.
+
+The recurring pattern is not:
+
+**old representation bad → new representation good**.
+
+It is:
+
+**old representation useful → overreach discovered → jurisdiction narrowed → representation becomes composable with others**.
+
+That pattern now appears across memory, rendering, observation, canon, and historical retrieval.
+
+
+## Current frontier
+
+The crawl has now earned several concrete targets for the archived-document phase and for any further recoverable-history descent:
+
+1. Recover primary evidence for the **Apparatus** two-surface / brass-pane sequence and determine whether its surfaces already had distinct authority or only later acquired that interpretation.
+2. Recover the **witches' stand / seam of light** sequence and inspect what crossed between scene, map, notebook, and Home.
+3. Recover primary **Syntax Reroll** material around lexical conservation, minimum-change rematerialization, and whether "pictures propose; actions commit" was already explicit there.
+4. Recover the **Three Loci / Private Ledgers** implementation or design record rather than relying on later summaries.
+5. Find the first instance where a model, rather than the human, deliberately selected residue for a future model.
+6. Look for a genuine **over-recovery failure**: a case where too much inherited context caused worse continuation than a smaller packet.
+7. Recover contradictory contemporary interpretations of one event and preserve both without adjudicating them through current theory.
+
+These are evidence gaps, not blockers.
+
+The archaeology can continue around them, but archived project documents may be especially valuable because they can triangulate conversation retrieval rather than merely extend it.
+
