@@ -2896,3 +2896,131 @@ No executable Wanderer artifact has been established by this archive pass.
 
 These handles materially deepen the genealogy beneath Moth, Digital Familiar, CnC, Syntax Reroll, Magic Map, and Crucible.
 
+## Primary archive: Project Carrier
+
+The August 8 **Drones / Carriers** retrospective sits beside Wanderer but changes the experimental question: what happens when a model is embedded inside a deterministic persistent world and chooses only among actions the engine says are currently possible?
+
+The foundational split is explicit:
+
+**the world determines what is possible; the model determines which possibility it prefers.**
+
+The first drone did not issue free-form movement commands. The engine enumerated reachable destinations and other legal actions. This produced an early boundary between **semantic decision** and **mechanical authority**.
+
+### Bounded affordance
+
+A recurring failure was intention collapsing intermediate mechanics. Wanting to investigate a distant signal could become immediate arrival even when several moves were required. The experiment found that prose constraints were weaker than executable affordances: rather than reminding the model to obey movement topology, expose only moves the world can presently execute.
+
+This is an early complement to later bounded observation: **bounded affordance**. Later experiments ask what an observer may legitimately know; Carrier already asks what an agent may legitimately do.
+
+### Model output is proposed intent
+
+AgentController assembled relevant state and legal options, requested a tiny structured **key + reason** response, validated the engine-owned key, executed the deterministic action, and mutated the world. Invalid selections could be rejected and retried before canonical state changed.
+
+The key was an executable contract. The reason was an observability channel.
+
+The retrospective explicitly denies the reason privileged epistemic status: **reasons are observability, not authority**. A generated explanation can be compared with supplied state and resulting behavior, but it is not literal access to internal cognition.
+
+### Capability comes from systems
+
+As action types multiplied, modular option providers replaced a growing controller conditional. Movement, harvesting, exploration, carrier behavior, and other systems could independently contribute currently legal actions.
+
+The resulting principle was that the orchestrator should know how to ask systems what they can do rather than contain the logic of every system itself.
+
+This is an early ancestor of later modular substrates and capability assembly.
+
+### World as shared memory
+
+Harvesting changed persistent resource state:
+
+**PRISTINE → PARTIAL → DEPLETED**
+
+A later agent did not require a transcript saying another drone harvested there. The altered world already carried the consequence.
+
+The retrospective explicitly recognizes this as **the world as shared memory**.
+
+This is a strong ancestor of later continuity-through-consequence work. History can survive because the world is different afterward.
+
+### A tiny decision ecology
+
+Fuel, resource richness, danger, and signals created competing reasons to act. Resource asks what can be gained. Danger asks what it might cost. Signal asks what might be discovered.
+
+No single authored utility function declared the correct tradeoff. The model became useful as a **semantic arbiter** among several legal possibilities whose relative value was contextual rather than mathematically predetermined.
+
+### Carrier as mobile boundary condition
+
+The carrier introduced another scale of agency.
+
+**DRONE:** What should I do around here?
+
+**CARRIER:** Where should operations happen next?
+
+Carrier position defined the current operational area. Drones explored locally, information and resource state accumulated, and the carrier decided whether to stay, gather more information, or relocate within an engine-constructed frontier.
+
+The retrospective names the carrier a **mobile boundary condition**.
+
+Global exploration therefore became a sequence of bounded local problems rather than one model reasoning over an indefinitely exposed world.
+
+### Role-specific action spaces and timescales
+
+Drone and carrier received different action vocabularies and operated at different temporal resolutions. The archive recognizes that apparent model competence depends heavily on the decision surface supplied to it.
+
+A small role-specific action space can produce more coherent behavior than a universal action vocabulary. The affordance surface does not merely simplify control; it constrains cognition to the scale where that agent has authority.
+
+### Behavioral character without persona
+
+The prototype observed behavior legible as curiosity, caution, exploitation, and retreat without elaborate personality prompts. Fuel, unknown territory, resources, danger, signals, distance, and a carrier/home relationship supplied enough consequential structure for recognizable tendencies to appear.
+
+The contemporary principle was:
+
+**behavioral character can emerge from constraints, not only from persona text.**
+
+This does not establish personality. It does establish an older experimental reason not to equate behavioral regularity with authored identity.
+
+### Determinism around semantic choice
+
+The mature pattern was approximately:
+
+**deterministic input construction → nondeterministic semantic choice → deterministic validation → deterministic world mutation**
+
+As the project developed, responsibility repeatedly left the model. Coordinates, movement legality, resource state, harvesting, fuel, spatial identity, frontier reachability, and failure recovery became ordinary machinery.
+
+The model retained the narrow job of making **a semantic choice among valid possibilities**.
+
+The local-model experiments reinforced the same architectural direction: tighter context, explicit options, simple output schema, and deterministic bookkeeping made smaller models more useful. The deeper result was not about a particular model size. Better system design reduced how much model capability the task demanded.
+
+## Carrier under the larger archaeological lens
+
+Wanderer and Carrier are complementary fossils.
+
+Wanderer discovers:
+
+**generated prose is not enough to own persistence.**
+
+Carrier discovers:
+
+**prompted intention is not enough to own legality.**
+
+Together they establish two jurisdiction boundaries:
+
+**world obligation must survive beyond prose**
+
+and
+
+**world possibility must be enforced below prose**.
+
+Carrier is also an early nonvisual shared action surface:
+
+**world state → engine-generated affordances → semantic selection → deterministic execution**.
+
+Its world-as-memory result precedes later experiments in which persistent consequence becomes a continuity carrier. And its bounded-affordance result complements the later lineage of bounded perception, loci, apertures, and situated observation.
+
+The deeper recurring direction is already visible: as ordinary machinery becomes more authoritative over identity, legality, bookkeeping, and consequence, the model's jurisdiction becomes narrower and its remaining semantic decisions become more meaningful.
+
+### Archive authority note
+
+The source is an August 8 post-design retrospective, not a turn-by-turn implementation trace. Some exact implementation details are explicitly remembered approximately in the source and remain approximate. The local-model observations are retrospective reports rather than preserved benchmarks. The document also warns against retroactively claiming later Moth memory-mediated salience machinery. No executable Carrier artifact has been established by this archive pass.
+
+### Excavation handles
+
+**world determines possibility / model determines preference · bounded affordance · semantic decision / mechanical authority · engine-owned option keys · world as shared memory · semantic arbiter · mobile boundary condition · role-specific action spaces · behavioral character from constraints · reasons are observability, not authority · deterministic validation around semantic choice**
+
