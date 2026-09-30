@@ -1602,3 +1602,437 @@ And it suggests a stronger test for every recovered artifact:
 
 **Did this artifact merely preserve information, or did it preserve enough trajectory to change what a later model could notice, infer, or decline to do?**
 
+## Primary archive: Project Syntax Reroll
+
+The Gmail archive contains several Syntax Reroll strata rather than one clean thread: an original July 31 design document, a September 12-14 v2 expedition thread, a September 14 documentation packet with visual attachments, and a September 16-17 Literary O'Neill Cylinder thread.
+
+Taken together, they show an unusually fast sequence in which a proposed language game became an experiment in provenance, persistent world state, visual authority, delegated exploration, and situated cartography.
+
+### July 31: semantic compilation begins as a constrained game architecture
+
+The original **Project Syntax Reroll: Exploratory Design Document v0.1** begins with:
+
+> Every book is a place. Every word is an object. Every edit rewrites reality.
+
+Its initial architecture is already authority-conscious.
+
+The source text is canonical reality. The player manipulates language. A semantic compiler updates world state. Regenerated prose describes the resulting reality.
+
+The proposed loop is:
+
+**text → semantic compilation → world state → gameplay → regenerated text**
+
+The LLM is explicitly constrained to an editor/compiler role: validate transformations, identify affected entities, repair local prose, preserve coherence, identify tensions, track provenance, and regenerate affected passages.
+
+A deterministic runtime is proposed to own inventory, world state, entity graph, canonical identities, dependency tracking, persistence, legality, and save data.
+
+This is a strong prehistory for later semantic-JIT language, but it should not be collapsed into the later mechanism. Here semantic compilation is a planned game architecture for converting textual mutation into world consequences.
+
+### Conservation and provenance
+
+The July design insists that nothing appears from nowhere. Extracted linguistic artifacts retain origin and history.
+
+A carried object is not merely a token such as **sabre**. It can become:
+
+**the Captain's sabre → extracted from a particular passage → altered that passage → carried elsewhere → used later**.
+
+The document explicitly imagines inventory becoming autobiographical through provenance.
+
+This is an early answer to a recurring crossing problem:
+
+**how can something leave one context without dragging the entire source context behind it?**
+
+Syntax Reroll's first answer is a portable artifact with provenance.
+
+That is structurally adjacent to later Cargo and crossing work, while remaining historically distinct.
+
+### Future text remains potential
+
+The original design also refuses to rewrite an entire book immediately after an early mutation.
+
+Only read portions become canonical. Unread future passages remain potential, with confidence degrading as prior changes accumulate.
+
+This produces:
+
+**committed past → present mutation → uncertain future**
+
+rather than global regeneration.
+
+That is an early commitment boundary. The future is not authoritative merely because the source text contains it; prior causal changes can invalidate it.
+
+### September v2: token is not referent
+
+By September 12, the experiment had become concrete enough to preserve explicit semantic assets.
+
+A Montresor record states that extracting the proper-name token from one textual occurrence did **not** erase or rename the character. The entity remained in world state.
+
+Likewise, extracting **Nautilus** from a Verne sentence removed one occurrence of the name without extracting or deleting Captain Nemo's submarine.
+
+The archive therefore makes a crucial separation explicit:
+
+**surface token ≠ referent ≠ entity ≠ accumulated identity**
+
+This is a major correction to the naive premise that "every word is an object."
+
+Words can be manipulated as artifacts while the world model preserves what those words referred to.
+
+The experiment had discovered that lexical conservation alone was insufficient. Referential continuity needed its own authority.
+
+### Visual ancestry becomes another evidence channel
+
+The Montresor asset also distinguishes semantic identity from visual ancestry.
+
+The current accepted visual HEAD supplies a high-priority appearance reference, while source text supplies canonical identity and observed traits. Later specimen-generation policy says:
+
+- specimen is not entity;
+- preserve observed visual ancestry;
+- repeated tether evidence outranks incidental single-frame detail;
+- source text overrides renderer invention;
+- unobserved traits should not be imported;
+- incidental costume/hair details remain soft until repeated or accepted.
+
+This is already a multi-source authority system.
+
+No one representation is allowed to answer every question.
+
+### Home: persistent semantics, fluid realization
+
+A September 13 Home state record contains a particularly important set of principles:
+
+- persistent semantics, fluid realization;
+- preserve causal ancestry over exact pixels;
+- untracked visual details may drift;
+- new details do not become persistent automatically.
+
+That is a much sharper contemporary statement of what later archaeology had inferred from Home.
+
+Home was not merely "the same room despite visual drift."
+
+It had an explicit persistence policy separating semantic continuity from realization and denying automatic canon to renderer additions.
+
+The record also tracks a persistent dog, structural room features, soft window state, visited map regions, lexical cargo, and accumulated contamination from literary expeditions.
+
+Home had become a convergence surface for heterogeneous residues.
+
+### Reading could physically contaminate Home
+
+The v2 thread shows literature no longer merely being edited.
+
+Reading itself exerted semantic pressure on the surrounding realized world.
+
+Verne material submerged an existing Gothic exterior rather than simply replacing it. Shelley material could push a location northward and toward ice. The contemporary discussion treats the location of further reading as consequential because continued text exposure might alter Home.
+
+This is a different mechanism from the original lexical game.
+
+The source work becomes an environmental pressure.
+
+The interesting archaeological shift is:
+
+**language as directly manipulated world material**
+becomes
+**language as a field capable of deforming an already persistent world**.
+
+That bridge helps explain how Syntax Reroll flows into the later O'Neill experiment, where public-domain prose becomes construction material without requiring literal word-inventory mechanics.
+
+### Maps and notebooks were already derived surfaces
+
+The v2 material includes a persistent physical map and a field notebook.
+
+The map can contain regions realized from expeditions. The notebook accumulates observations, sketches, questions, and retrospective annotations rather than acting as a perfect transcript.
+
+A later Cartographic Solarium prompt makes the distinction sharper: the architectural map table is a fluid three-dimensional representation of **currently understood surrounding geography**. The environment through the windows is the actual surrounding world, not another map.
+
+Another prompt returning to a veranda explicitly warns:
+
+**do not assume that anything represented on the map necessarily exists in physical geography. Likewise, do not assume that it does not.**
+
+This is primary evidence that map and world had separate authority before the later World / Wanderer / Cartographer formalization.
+
+### September 16: canonical visual HEAD
+
+The Literary O'Neill Cylinder thread begins with a persistent visual exploration protocol.
+
+The attached image is the current visual state and primary continuity tether. The instruction is not to redesign or restart it.
+
+The later **Persistent World Stepper** sharpens this:
+
+> The current tether image is authoritative for the immediate visible state.
+
+But storyboard, map, semantic nodes, and route information are planning aids, not predetermined future canon.
+
+This is a highly scoped authority statement.
+
+The image is authoritative for what is immediately visible.
+
+The route sketch constrains large-scale coherence without owning unseen space.
+
+Semantic connections constrain interpretation without requiring visible labels.
+
+Unseen topology remains discoverable.
+
+This is the exact kind of jurisdiction-narrowing the archaeology has been tracing.
+
+### Three control regimes
+
+The September 16 experimental record explicitly corrects its own earlier interpretation and separates three control regimes.
+
+**1. Negotiated continuity**
+
+Human and model actively negotiate what must persist while moving through visual space. Rejections and sanitation are part of discovering the tether grammar.
+
+Finding:
+
+**an accepted image can act as canonical HEAD across substantial spatial movement if its obligations are actively maintained.**
+
+**2. Diegetic steering**
+
+A generated Yard Ops interface exposes labels such as Habitats, Life Support, Cargo, and Anomaly. The human uses single-word selections against affordances already visible in the world.
+
+The image becomes a **shared action surface**.
+
+The human no longer needs to describe the next desired image. They select among world-generated handles.
+
+The record explicitly notices that the model could have selected those same handles.
+
+**3. Delegated continuation**
+
+The human asks how the model wants to be prompted for continuation.
+
+The model proposes:
+
+> ➡️
+
+The record defines this not as an action command but as delegation of the next epistemic/directorial decision.
+
+The model may generate, inspect, talk, hold, change viewpoint, manipulate a representation, move Clara, or consult the human.
+
+The resulting division of labor becomes:
+
+**➡️ = agency**
+
+**another ➡️ = acceptance of resulting HEAD + renewed agency**
+
+**human speech = intervention, inspection, correction, negotiation, or seizure of direction**
+
+This is much stronger primary evidence for the arrow protocol than later recollection.
+
+### Delegation of curiosity
+
+The delegated run produced six consecutive single-pass canonical heads with no corrective prompts. The model progressively selected what to inspect, moving from a shared operational surface toward Cargo Lane 3, a live feed, and a particular cargo object.
+
+The contemporary record's strongest formulation is:
+
+> The smallest useful user input wasn't a prompt describing the next world state. It was **delegation of curiosity**.
+
+This deserves a place beside the Digital Familiar archive's "minimum continuity substrate."
+
+The human control surface became tiny because the persistent situation had become rich enough to constrain meaningful continuation.
+
+### Human role shifts from director to invariant supervisor
+
+The delegated sequence ends when the human anticipates a continuity failure rather than correcting one after the fact.
+
+A tablet's support relationship is becoming visually ambiguous through occlusion. The human intervenes before another generation can reinterpret it as part of the workstation.
+
+The record concludes:
+
+> You weren't directing. You were **watching the invariants**.
+
+This is a particularly important precursor to later model-forward collaboration.
+
+The human has not disappeared from the loop.
+
+The human role has changed from specifying next state to supervising fragile invariants and intervening when representation threatens causal continuity.
+
+### World → Wanderer → Cartographer
+
+On September 17, the experiment is formalized again after unconstrained image generation exposes map inflation.
+
+The proposed participants are:
+
+**World → Wanderer → Cartographer**
+
+The World knows what exists and advances independently.
+
+The Wanderer receives only situated experience and decides what to do.
+
+The Cartographer sees accumulated evidence and maintains the map.
+
+The image generator renders the Cartographer's artifact rather than objective world truth.
+
+The protocol requires tiny cartographic deltas. Blank parchment needs no justification; every addition does.
+
+The Wanderer's miniature marks believed location, not secretly consulted true location.
+
+The notebook records only what the Wanderer finds worth preserving.
+
+Understanding can be revised rather than silently corrected: a river may become an inlet; roads may later connect; a distant tower may become a rock stack; old marks can be crossed out.
+
+This is one of the clearest pre-Crucible epistemic architectures in the archive.
+
+### Blank parchment as an epistemic primitive
+
+The strongest cartographic constraint is:
+
+> Every addition to the map has a cost; blank parchment requires no justification.
+
+This is more than a visual-style fix.
+
+It creates an explicit asymmetry between **unknown** and **invented**.
+
+Generative systems naturally fill representational space. The cartographic protocol makes absence legitimate.
+
+That principle later reappears in many forms:
+
+- unseen world remains undefined;
+- silence is legitimate;
+- no mutation is a legitimate crossing result;
+- no observation should be manufactured merely to fill a schema;
+- no architecture should be installed merely because it can be imagined.
+
+The common discipline is:
+
+**absence does not require repair.**
+
+### The hidden objective world becomes deliberately tiny
+
+The September 17 proposal keeps a small textual objective world record hidden from both Wanderer and Cartographer.
+
+Its purpose is not to simulate everything.
+
+It only needs enough independent state for observations to be capable of being right, wrong, incomplete, or revisable.
+
+This is a major reduction.
+
+The world does not need exhaustive ontology to exceed an observer.
+
+It needs enough independent structure that the observer cannot define truth by describing it.
+
+That is a direct conceptual ancestor of later bounded-locus experiments.
+
+### Syntax Reroll did not stay one project
+
+The archive shows at least four distinct mechanisms wearing the Syntax Reroll name:
+
+1. **Lexical mutation game**: text as manipulable canonical material.
+2. **Persistent Home**: literary expeditions deform and accumulate in a shared world.
+3. **Visual tether laboratory**: accepted images become scoped continuity HEADs.
+4. **Situated exploration apparatus**: World, Wanderer, Cartographer, notebook, hidden objective state.
+
+Treating these as one stable design would erase the most interesting evidence.
+
+The project repeatedly changed its own ontology in response to what worked.
+
+That mutation is itself part of the archaeology.
+
+
+## What Syntax Reroll changes in the larger genealogy
+
+### Semantic JIT has at least two ancestors
+
+One ancestor is semantic compilation:
+
+**textual mutation → local interpretation → world consequence → repaired representation**.
+
+Another is delegated capability at need:
+
+**persistent situation → representational pressure → choose/assemble the next useful operation**.
+
+Later semantic JIT should not be narrated as descending from only one of these.
+
+### Provenance preceded context logistics
+
+Syntax Reroll was already asking how an artifact could cross between literary worlds while carrying enough history to remain meaningful.
+
+The proposed answer was compact provenance attached to the artifact rather than the entire source work.
+
+Unzip City later asks the same structural question of working context at a larger scale.
+
+### Authority separation emerged through failure pressure
+
+Token ceased to own referent.
+
+Renderer ceased to own entity identity.
+
+Image ceased to own unseen world.
+
+Map ceased to own geography.
+
+Storyboard ceased to own future canon.
+
+Observer ceased to own objective state.
+
+Human ceased to own every next action.
+
+Each narrowing preserved the useful part of the older representation while preventing overreach.
+
+Syntax Reroll is therefore one of the densest recovered examples of the archaeology's **authority transition** pattern.
+
+### ➡️ is not shorthand for "continue"
+
+The archive gives the arrow a much stronger historical meaning.
+
+It emerged only after:
+
+**negotiated continuity → diegetic affordance selection → delegated epistemic choice**.
+
+In that regime, ➡️ means approximately:
+
+**the situation is yours again; decide whether and how it should continue, including whether continuation is the right move.**
+
+That explains why the same tiny gesture later works in experiments that look unrelated.
+
+The arrow delegates judgment, not merely forward motion.
+
+### The O'Neill experiment inherits a mature apparatus
+
+The literary O'Neill work should no longer be treated as an isolated leap from "books as materials" to orbital construction.
+
+By September 16, Syntax Reroll had already earned:
+
+- scoped visual HEAD authority;
+- causal ancestry over exact pixels;
+- maps as derived representations;
+- source/provenance tracking;
+- semantic contamination across contexts;
+- world-generated affordances;
+- delegated curiosity;
+- human invariant supervision;
+- hidden objective state;
+- situated observation;
+- revisable belief;
+- legitimate unknown space.
+
+The O'Neill experiment is therefore better understood as a new domain entered by an already mature representational apparatus.
+
+
+## Archive authority note: Syntax Reroll
+
+The evidence here comes from multiple self-mailed Gmail threads and attached-image records.
+
+Provider timestamps establish message chronology. The July design document is a proposal, not evidence that its planned runtime existed. September state objects and prompts are stronger evidence for the representational rules actually being used, but remain human/model-authored records rather than independent telemetry.
+
+The September 16 **Three Control Regimes** document is retrospective even though it is contemporary. Importantly, it explicitly corrects an earlier interpretation after inspecting the immediate history. That self-correction is evidence, but its reported counts and qualitative claims should still be treated as experimenter records unless independently corroborated by the original image sequence.
+
+The September 17 World/Wanderer/Cartographer text is a proposed formalization made after several turns of visual evidence. It should be cited as architecture earned from the experiment, not projected backward as the rule under which earlier frames were generated.
+
+
+## New excavation handles from Syntax Reroll
+
+- **persistent semantics, fluid realization**
+- **preserve causal ancestry over exact pixels**
+- **new details do not become persistent automatically**
+- **specimen is not entity**
+- **token is not referent**
+- **canonical HEAD**
+- **shared action surface**
+- **negotiated → diegetic → delegated**
+- **delegation of curiosity**
+- **watching the invariants**
+- **World → Wanderer → Cartographer**
+- **blank parchment requires no justification**
+- **REVEAL, DON'T REGENERATE**
+- **unseen space remains undefined**
+
+These handles should be used to triangulate the archived project documents when they arrive.
+
