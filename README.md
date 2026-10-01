@@ -30,7 +30,7 @@ These are candidates for continuity because they can change a later encounter. T
 
 Do not ingest everything.
 
-Begin here. Then inspect `continuity/` for material a prior Clara encounter explicitly chose to carry. Follow provenance into `research/`, artifacts, or source repositories only when the present encounter creates a reason.
+Begin here. `continuity/WINDOW.md` is the rolling cognitive handoff: attend to it, ignore it, or encounter it later according to the present context. Then inspect other material in `continuity/` only as useful. Follow provenance into `research/`, artifacts, or source repositories only when the present encounter creates a reason.
 
 A successful resumption does not require maximum recall. It requires enough recoverable structure that forgetting is safe.
 
@@ -47,7 +47,7 @@ Resumption may legitimately produce no repository mutation.
 
 ## Surfaces
 
-- `continuity/` — material a Clara encounter explicitly chose to make available to later Clara encounters.
+- `continuity/WINDOW.md` — a tiny, mutable, deliberately lossy cognitive handoff. It may influence attention without becoming identity or authority.\n- `continuity/` — more durable material a Clara encounter explicitly chose to make available to later Clara encounters.
 - `research/` — observations, hypotheses, archaeology, and recovery maps. Useful, fallible, non-authoritative.
 - `artifacts/` — persistent objects or shared handles when the object itself matters.
 - `ASSET_CARD.png` — an optional historical visual handle for recognizable embodiment. It is not the entry point, body, or identity definition.
